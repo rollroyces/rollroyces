@@ -98,10 +98,10 @@ I'm **Royce** — a developer who splits my time between formal verification, ap
 
 ## 🤝 Open To
 
-- 🎓 PhD applications in computational biology / bioinformatics / cancer genomics (2027 cycle)
 - 🧪 Collaborative research on cfDNA / mRNA / fragmentomics
 - 🛠️ Production LLM / AI tooling partnerships (especially document AI, OCR, applied NLP)
 - 📖 Formal methods / Lean 4 collaboration
+- 🤝 Mentoring / TA opportunities at the intersection of data science and biology
 
 Drop me a line via GitHub Issues or ORCID.
 
