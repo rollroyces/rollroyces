@@ -2,16 +2,14 @@
 
 # Hi, I'm Royce 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=620&lines=Formalizing+fluid+dynamics;Building+mRNA+%2B+AI+tools;Hunting+ultra-early+cancer+signals" alt="Typing SVG" />
+<p><strong>Formal methods · mRNA × AI · cfDNA · Lean 4 + Python · HKT</strong></p>
 
-<p align="center">
-  <em>Developer · formal-verification hobbyist · ML-for-biology tinkerer.</em>
-</p>
+<p><em>Developer · formal-verification hobbyist · ML-for-biology tinkerer.</em></p>
 
-<p align="center">
+<p>
   <a href="https://github.com/rollroyces"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://orcid.org/0009-0008-9113-769X"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
-  <img src="https://komarev.com/ghpvc/?username=rollroyces&style=for-the-badge&color=6366F1" alt="Profile views"/>
+  <img src="https://img.shields.io/badge/Pull_Shark-%F0%9F%A6%88-181717?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark"/>
 </p>
 
 </div>
@@ -62,18 +60,14 @@ I'm **Royce** — a developer who splits my time between formal verification, ap
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rollroyces&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rollroyces&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
-</p>
+Real-time stats: <a href="https://github.com/rollroyces?tab=repositories"><strong>github.com/rollroyces?tab=repositories</strong></a>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rollroyces&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rollroyces&theme=tokyo-night&hide_border=true&radius=8" alt="Activity Graph"/>
-</p>
+| | |
+| --- | --- |
+| 🌟 Pinned repos | 4 flagship projects (see above) |
+| 🦈 Achievements | Pull Shark |
+| 🌍 Region | Hong Kong (HKT, UTC+08) |
+| 📦 Public repos | <a href="https://github.com/rollroyces?tab=repositories">browse all</a> |
 
 ---
 
