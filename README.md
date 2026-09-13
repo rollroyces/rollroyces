@@ -2,7 +2,7 @@
 
 # Hi, I'm Royce 👋
 
-<p><strong>Formal methods · mRNA × AI · cfDNA · Lean 4 + Python · HKT</strong></p>
+<p><strong>Bioinformatics · mRNA × AI · cfDNA fragmentomics · Formal methods · Lean 4 + Python · HKT</strong></p>
 
 <p><em>Developer · formal-verification hobbyist · ML-for-biology tinkerer.</em></p>
 
@@ -20,8 +20,9 @@
 
 I'm **Royce** — a developer who splits my time between formal verification, applied ML for biology, and the occasional late-night PR review. I like problems where the math has to check out *and* the code has to ship.
 
-- 🔭 **Right now:** shipping [mrna-ai-toolkit](https://github.com/rollroyces/mrna-ai-toolkit), iterating on [deepcatch](https://github.com/rollroyces/deepcatch), and slowly grinding a Lean 4 formalization of Navier–Stokes regularity.
-- 📐 **Research interests:** fluid dynamics, formal methods, mRNA design, cfDNA fragmentomics.
+- 🔭 **Right now:** shipping [mrna-ai-toolkit](https://github.com/rollroyces/mrna-ai-toolkit) (codon optimization, neoantigen screening, TrialGPT-style trial matching, scGPT embeddings, LNP chemistry, manufacturability), iterating on [deepcatch](https://github.com/rollroyces/deepcatch) (cfDNA fragmentomics + methylation → ultra-early multi-cancer detection), and grinding a Lean 4 formalization of Navier–Stokes regularity.
+- 🧬 **Bioinformatics & computational biology:** mRNA design pipeline (codon, UTR, secondary structure, manufacturability), cancer immunotherapy & neoantigen prediction, cfDNA fragmentomics and methylation signatures, lipid-nanoparticle formulation, scRNA-seq foundation models, AI-driven clinical trial matching.
+- 📐 **Other research interests:** fluid dynamics (Navier–Stokes regularity, Tao averaged, Ladyzhenskaya), formal verification in Lean 4 + Mathlib4, additive combinatorics (Erdős #125).
 - 🛠️ **Stack:** Python, JAX / PyTorch, Lean 4 + Mathlib4, LaTeX (Tectonic), and way too much shell.
 - 🌏 **Time zone:** HKT (UTC+08) — usually awake when half the world is asleep.
 - ⚡ **Fun fact:** I dual-license my bigger repos (AGPL-3.0 + commercial) — pure copyleft *and* a sustainable path for downstream users.
@@ -49,12 +50,19 @@ I'm **Royce** — a developer who splits my time between formal verification, ap
 
 ## 🔬 Current Projects
 
+**Bioinformatics & computational biology**
+
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [**mrna-ai-toolkit**](https://github.com/rollroyces/mrna-ai-toolkit) | End-to-end mRNA design × AI: codon optimization, neoantigen prediction, TrialGPT-style matching, scGPT embeddings, LNP chemistry, manufacturability. | Python · PyTorch · HF |
-| [**deepcatch**](https://github.com/rollroyces/deepcatch) | Performance-weighted multi-modal fusion for ultra-early cfDNA cancer detection. | Python · ML |
-| [**ns-blowup**](https://github.com/rollroyces/ns-blowup) | Lean 4 + Mathlib4 formalization of Navier–Stokes regularity (Ladyzhenskaya, Tao averaged, discrete bridges). | Lean 4 |
-| [**erdos-125**](https://github.com/rollroyces/erdos-125) | Formal progress on Erdős #125 — sumset / density. Dual-licensed (AGPL + commercial). | Lean 4 |
+| [**mrna-ai-toolkit**](https://github.com/rollroyces/mrna-ai-toolkit) | End-to-end mRNA design × AI: codon optimization, neoantigen screening, TrialGPT-style clinical-trial matching, scGPT embeddings, LNP composition, manufacturability checks. Dual-licensed (AGPL + commercial). | Python · PyTorch · HF |
+| [**deepcatch**](https://github.com/rollroyces/deepcatch) | Performance-weighted multi-modal fusion for **ultra-early cfDNA cancer detection** — fragmentomics, methylation, sequence. | Python · ML |
+
+**Formal methods**
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [**ns-blowup**](https://github.com/rollroyces/ns-blowup) | Lean 4 + Mathlib4 formalization toward Navier–Stokes regularity (Ladyzhenskaya, Tao averaged, discrete bridges). 100+ theorems, 0 sorries. | Lean 4 |
+| [**erdos-125**](https://github.com/rollroyces/erdos-125) | Formal progress on Erdős #125 (sumset / density). log 3 / log 4 irrationality proved. Dual-licensed (AGPL + commercial). | Lean 4 |
 
 ---
 
