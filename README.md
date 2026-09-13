@@ -57,16 +57,16 @@ I'm **Royce** — a developer who splits my time between formal verification, ap
 
 ---
 
-## ✅ Recently Merged
+## ✅ Recent Contributions
 
-**43 PRs merged in the last 30 days.**
+**Projects I've been actively shipping to:**
 
-| Repo | Merged | Highlights |
-| --- | --- | --- |
-| [**nl2pbip**](https://github.com/rollroyces/nl2pbip) | **24** | Power Query M partitions · calculation groups + dynamic format strings · OLS · agentic self-reflection loop · Fabric Git-integration metadata · field parameters · curated ontology grounding (schema.org + PROV-O) · AI-driven schema advisor · OPC-compliant `.pbit` archives — full v1.0.0 ship |
-| [**py-idp**](https://github.com/rollroyces/py-idp) | **10** | AI document processing (12+ LLM backends, OCR, HITL, FastAPI) · MkDocs site + GitHub Pages · Receipt schema + CORD benchmark · curated Anthropic + HITL examples · Chinese README · PyPI publish (v0.3.1) |
-| [**deeplethe/utopia**](https://github.com/deeplethe/utopia) *(external)* | **8** | Schema columns carry PK/FK · exploration coverage rendering · queued-read requeue semantics · extraction prompt covers possessive / past-tense role forms |
-| [**deepcatch**](https://github.com/rollroyces/deepcatch) | 1 | tumor-naive cfDNA detection channel adapter |
+| Repo | Highlights |
+| --- | --- |
+| [**nl2pbip**](https://github.com/rollroyces/nl2pbip) | Power Query M partitions · calculation groups + dynamic format strings · OLS · agentic self-reflection loop · Fabric Git-integration metadata · field parameters · curated ontology grounding (schema.org + PROV-O) · AI-driven schema advisor · OPC-compliant `.pbit` archives — full v1.0.0 ship |
+| [**py-idp**](https://github.com/rollroyces/py-idp) | AI document processing (12+ LLM backends, OCR, HITL, FastAPI) · MkDocs site + GitHub Pages · Receipt schema + CORD benchmark · curated Anthropic + HITL examples · Chinese README · PyPI publish (v0.3.1) |
+| [**deeplethe/utopia**](https://github.com/deeplethe/utopia) *(external)* | Schema columns carry PK/FK · exploration coverage rendering · queued-read requeue semantics · extraction prompt covers possessive / past-tense role forms |
+| [**deepcatch**](https://github.com/rollroyces/deepcatch) | tumor-naive cfDNA detection channel adapter |
 
 ---
 
