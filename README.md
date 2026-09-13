@@ -9,7 +9,8 @@
 <p>
   <a href="https://github.com/rollroyces"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://orcid.org/0009-0008-9113-769X"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
-  <img src="https://img.shields.io/badge/Pull_Shark-%F0%9F%A6%88-181717?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark"/>
+  <img src="https://img.shields.io/badge/M.S._ADS-University_of_Michigan-00274C?style=for-the-badge&logo=university&logoColor=FFCB05" alt="M.S. Applied Data Science — U-M"/>
+  <img src="https://img.shields.io/badge/CUHK-Genomes_%26_Bioinformatics_(current)-A02337?style=for-the-badge&logo=academia&logoColor=white" alt="CUHK — Genomes & Bioinformatics"/>
 </p>
 
 </div>
@@ -20,9 +21,11 @@
 
 I'm **Royce** — a developer who splits my time between formal verification, applied ML for biology, and the occasional late-night PR review. I like problems where the math has to check out *and* the code has to ship.
 
+🎓 **Background:** M.S. in Applied Data Science, University of Michigan. Currently studying **genomes and bioinformatics at CUHK**.
+
 - 🔭 **Right now:** shipping [mrna-ai-toolkit](https://github.com/rollroyces/mrna-ai-toolkit) (codon optimization, neoantigen screening, TrialGPT-style trial matching, scGPT embeddings, LNP chemistry, manufacturability), iterating on [deepcatch](https://github.com/rollroyces/deepcatch) (cfDNA fragmentomics + methylation → ultra-early multi-cancer detection), and grinding a Lean 4 formalization of Navier–Stokes regularity.
-- 🧬 **Bioinformatics & computational biology:** mRNA design pipeline (codon, UTR, secondary structure, manufacturability), cancer immunotherapy & neoantigen prediction, cfDNA fragmentomics and methylation signatures, lipid-nanoparticle formulation, scRNA-seq foundation models, AI-driven clinical trial matching.
-- 📊 **Data science & ML:** multi-modal medical imaging, ultra-sensitive ctDNA detection (0.001% VAF), fragmentomics feature engineering (FSD, 4-mer motifs, DELFI/WPS, GC-bias correction), NLP for HR analytics (sentiment / emotion / attrition risk), quantitative finance signal design, time-series forecasting, classical ML + deep learning + reinforcement learning.
+- 🧬 **Bioinformatics & computational biology (current focus):** mRNA design pipeline (codon, UTR, secondary structure, manufacturability), cancer immunotherapy & neoantigen prediction, cfDNA fragmentomics and methylation signatures, lipid-nanoparticle formulation, scRNA-seq foundation models, AI-driven clinical trial matching — coursework + research at CUHK.
+- 📊 **Data science & ML:** multi-modal medical imaging, ultra-sensitive ctDNA detection (0.001% VAF), fragmentomics feature engineering (FSD, 4-mer motifs, DELFI/WPS, GC-bias correction), NLP for HR analytics (sentiment / emotion / attrition risk), quantitative finance signal design, time-series forecasting, classical ML + deep learning + reinforcement learning — anchored in my M.S. at Michigan.
 - 📐 **Other research interests:** fluid dynamics (Navier–Stokes regularity, Tao averaged, Ladyzhenskaya), formal verification in Lean 4 + Mathlib4, additive combinatorics (Erdős #125).
 - 🛠️ **Stack:** Python, JAX / PyTorch, Lean 4 + Mathlib4, LaTeX (Tectonic), and way too much shell.
 - 🌏 **Time zone:** HKT (UTC+08) — usually awake when half the world is asleep.
@@ -92,6 +95,7 @@ Real-time stats: <a href="https://github.com/rollroyces?tab=repositories"><stron
 | --- | --- |
 | 🌟 Pinned repos | 4 flagship projects (see above) |
 | 🦈 Achievements | Pull Shark |
+| 🎓 Education | M.S. Applied Data Science (U-Michigan) · genomes & bioinformatics (CUHK, current) |
 | 🌍 Region | Hong Kong (HKT, UTC+08) |
 | 📦 Public repos | <a href="https://github.com/rollroyces?tab=repositories">browse all</a> |
 
@@ -102,6 +106,8 @@ Real-time stats: <a href="https://github.com/rollroyces?tab=repositories"><stron
 <p align="center">
   <a href="https://github.com/rollroyces"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://orcid.org/0009-0008-9113-769X"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
+  <img src="https://img.shields.io/badge/M.S._ADS-University_of_Michigan-00274C?style=for-the-badge&logo=university&logoColor=FFCB05" alt="M.S. Applied Data Science — U-M"/>
+  <img src="https://img.shields.io/badge/CUHK-Genomes_%26_Bioinformatics_(current)-A02337?style=for-the-badge&logo=academia&logoColor=white" alt="CUHK — Genomes & Bioinformatics"/>
 </p>
 
 <p align="center">
