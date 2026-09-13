@@ -2,7 +2,7 @@
 
 # Hi, I'm Royce 👋
 
-<p><strong>Bioinformatics · mRNA × AI · cfDNA fragmentomics · Formal methods · Lean 4 + Python · HKT</strong></p>
+<p><strong>Bioinformatics · Data Science · mRNA × AI · cfDNA fragmentomics · Formal methods · Lean 4 + Python · HKT</strong></p>
 
 <p><em>Developer · formal-verification hobbyist · ML-for-biology tinkerer.</em></p>
 
@@ -22,6 +22,7 @@ I'm **Royce** — a developer who splits my time between formal verification, ap
 
 - 🔭 **Right now:** shipping [mrna-ai-toolkit](https://github.com/rollroyces/mrna-ai-toolkit) (codon optimization, neoantigen screening, TrialGPT-style trial matching, scGPT embeddings, LNP chemistry, manufacturability), iterating on [deepcatch](https://github.com/rollroyces/deepcatch) (cfDNA fragmentomics + methylation → ultra-early multi-cancer detection), and grinding a Lean 4 formalization of Navier–Stokes regularity.
 - 🧬 **Bioinformatics & computational biology:** mRNA design pipeline (codon, UTR, secondary structure, manufacturability), cancer immunotherapy & neoantigen prediction, cfDNA fragmentomics and methylation signatures, lipid-nanoparticle formulation, scRNA-seq foundation models, AI-driven clinical trial matching.
+- 📊 **Data science & ML:** multi-modal medical imaging, ultra-sensitive ctDNA detection (0.001% VAF), fragmentomics feature engineering (FSD, 4-mer motifs, DELFI/WPS, GC-bias correction), NLP for HR analytics (sentiment / emotion / attrition risk), quantitative finance signal design, time-series forecasting, classical ML + deep learning + reinforcement learning.
 - 📐 **Other research interests:** fluid dynamics (Navier–Stokes regularity, Tao averaged, Ladyzhenskaya), formal verification in Lean 4 + Mathlib4, additive combinatorics (Erdős #125).
 - 🛠️ **Stack:** Python, JAX / PyTorch, Lean 4 + Mathlib4, LaTeX (Tectonic), and way too much shell.
 - 🌏 **Time zone:** HKT (UTC+08) — usually awake when half the world is asleep.
@@ -33,11 +34,16 @@ I'm **Royce** — a developer who splits my time between formal verification, ap
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/Lean_4-100000?style=for-the-badge&logo=lean&logoColor=00BFA5" alt="Lean 4"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/JAX-FDDC2C?style=for-the-badge&logo=jax&logoColor=black" alt="JAX"/>
+  <img src="https://img.shields.io/badge/Lean_4-100000?style=for-the-badge&logo=lean&logoColor=00BFA5" alt="Lean 4"/>
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -63,6 +69,18 @@ I'm **Royce** — a developer who splits my time between formal verification, ap
 | --- | --- | --- |
 | [**ns-blowup**](https://github.com/rollroyces/ns-blowup) | Lean 4 + Mathlib4 formalization toward Navier–Stokes regularity (Ladyzhenskaya, Tao averaged, discrete bridges). 100+ theorems, 0 sorries. | Lean 4 |
 | [**erdos-125**](https://github.com/rollroyces/erdos-125) | Formal progress on Erdős #125 (sumset / density). log 3 / log 4 irrationality proved. Dual-licensed (AGPL + commercial). | Lean 4 |
+
+**Data science, ML & quantitative**
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [**cancer-screening**](https://github.com/rollroyces/cancer-screening) | Ultra-sensitive Stage I cancer screening — ML / DL / RL for **0.001% VAF ctDNA detection**. | Python · ML |
+| [**cfdna-fragmentomics-pipeline**](https://github.com/rollroyces/cfdna-fragmentomics-pipeline) | Tumor-naive cfDNA pipeline: FSD, 4-mer motifs, DELFI/WPS, GC-bias correction, Cancer-vs-Healthy classifier on real FinaleDB. | Python |
+| [**deepcatch-methylation**](https://github.com/rollroyces/deepcatch-methylation) | CpG methylation-based cfDNA cancer detection (Phase 0: FinaleMe smoke validation). | Python |
+| [**CMC**](https://github.com/rollroyces/CMC) | MICCAI 2024 — Robust Semi-Supervised Multimodal Medical Image Segmentation via Cross Modality Collaboration. | Python |
+| [**employee-voice-analytics**](https://github.com/rollroyces/employee-voice-analytics) | NLP toolkit for HR feedback: sentiment, category, emotion, theme, attrition-risk. Local CLI + Databricks. | Python |
+| [**vmaa**](https://github.com/rollroyces/vmaa) · [**AI-Trader**](https://github.com/rollroyces/AI-Trader) · [**mr-strategy**](https://github.com/rollroyces/mr-strategy) · [**vcp-signals**](https://github.com/rollroyces/vcp-signals) | Quantitative trading pipelines: scan / price / risk / execution, VCP pattern detection, mean-reversion, agent-native automation. | Python |
+| [**PH125.9x heart-disease**](https://github.com/rollroyces/PH125.9x_heart-disease) · [**PH125.9x MovieLens**](https://github.com/rollroyces/PH125.9x_MovieLens) | HarvardX data-science coursework (R). | R |
 
 ---
 
