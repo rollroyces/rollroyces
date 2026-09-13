@@ -85,7 +85,25 @@ I'm **Royce** — a developer who splits my time between formal verification, ap
 | [**vmaa**](https://github.com/rollroyces/vmaa) · [**AI-Trader**](https://github.com/rollroyces/AI-Trader) · [**mr-strategy**](https://github.com/rollroyces/mr-strategy) · [**vcp-signals**](https://github.com/rollroyces/vcp-signals) | Quantitative trading pipelines: scan / price / risk / execution, VCP pattern detection, mean-reversion, agent-native automation. | Python |
 | [**PH125.9x heart-disease**](https://github.com/rollroyces/PH125.9x_heart-disease) · [**PH125.9x MovieLens**](https://github.com/rollroyces/PH125.9x_MovieLens) | HarvardX data-science coursework (R). | R |
 
+**Applied AI / production systems**
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [**py-idp**](https://github.com/rollroyces/py-idp) | AI Intelligent Document Processing: 12+ LLM backends, Pydantic schemas, self-hosted OCR (Nanonets-OCR2-3B), auto-schema discovery, HITL review, prod FastAPI. AGPL + commercial. | Python · FastAPI |
+| [**scrapex**](https://github.com/rollroyces/scrapex) | AI-friendly web scraping for Python — URL + schema in, clean markdown + JSON out. | Python |
+| [**nl2pbip**](https://github.com/rollroyces/nl2pbip) | Natural-language → Power BI report generator. | Python |
+| [**MDST-Tutorial**](https://github.com/rollroyces/MDST-Tutorial) | Tutorial materials I authored for Michigan Data Science Team (MDST). | Jupyter |
+
 ---
+
+## 🤝 Open To
+
+- 🎓 PhD applications in computational biology / bioinformatics / cancer genomics (2027 cycle)
+- 🧪 Collaborative research on cfDNA / mRNA / fragmentomics
+- 🛠️ Production LLM / AI tooling partnerships (especially document AI, OCR, applied NLP)
+- 📖 Formal methods / Lean 4 collaboration
+
+Drop me a line via GitHub Issues or ORCID.
 
 ## 📊 GitHub Stats
 
@@ -111,7 +129,7 @@ Real-time stats: <a href="https://github.com/rollroyces?tab=repositories"><stron
 </p>
 
 <p align="center">
-  <em>Open to interesting collaborations on formal math, mRNA tooling, and ultra-early cancer detection.</em>
+  <em>Open to interesting collaborations on formal math, mRNA tooling, ultra-early cancer detection, and applied LLM systems.</em>
 </p>
 
 ---
