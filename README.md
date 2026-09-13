@@ -9,8 +9,8 @@
 <p>
   <a href="https://github.com/rollroyces"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://orcid.org/0009-0008-9113-769X"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
-  <img src="https://img.shields.io/badge/M.S._ADS-University_of_Michigan-00274C?style=for-the-badge&logo=university&logoColor=FFCB05" alt="M.S. Applied Data Science — U-M"/>
-  <img src="https://img.shields.io/badge/CUHK-Genomes_%26_Bioinformatics_(current)-A02337?style=for-the-badge&logo=academia&logoColor=white" alt="CUHK — Genomes & Bioinformatics"/>
+  <img src="https://img.shields.io/badge/M.S._ADS-University_of_Michigan-00274C?style=for-the-badge&logoColor=FFCB05" alt="M.S. Applied Data Science — University of Michigan"/>
+  <img src="https://img.shields.io/badge/CUHK-Genomes_%26_Bioinformatics_(current)-A02337?style=for-the-badge&logoColor=FFFFFF" alt="CUHK — Genomes & Bioinformatics"/>
 </p>
 
 </div>
@@ -45,8 +45,8 @@ I'm **Royce** — a developer who splits my time between formal verification, ap
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/JAX-FDDC2C?style=for-the-badge&logo=jax&logoColor=black" alt="JAX"/>
-  <img src="https://img.shields.io/badge/Lean_4-100000?style=for-the-badge&logo=lean&logoColor=00BFA5" alt="Lean 4"/>
+  <img src="https://img.shields.io/badge/JAX-FDDC2C?style=for-the-badge&logoColor=black" alt="JAX"/>
+  <img src="https://img.shields.io/badge/Lean_4-100000?style=for-the-badge&logoColor=00BFA5" alt="Lean 4"/>
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -124,8 +124,8 @@ Real-time stats: <a href="https://github.com/rollroyces?tab=repositories"><stron
 <p align="center">
   <a href="https://github.com/rollroyces"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://orcid.org/0009-0008-9113-769X"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
-  <img src="https://img.shields.io/badge/M.S._ADS-University_of_Michigan-00274C?style=for-the-badge&logo=university&logoColor=FFCB05" alt="M.S. Applied Data Science — U-M"/>
-  <img src="https://img.shields.io/badge/CUHK-Genomes_%26_Bioinformatics_(current)-A02337?style=for-the-badge&logo=academia&logoColor=white" alt="CUHK — Genomes & Bioinformatics"/>
+  <img src="https://img.shields.io/badge/M.S._ADS-University_of_Michigan-00274C?style=for-the-badge&logoColor=FFCB05" alt="M.S. Applied Data Science — University of Michigan"/>
+  <img src="https://img.shields.io/badge/CUHK-Genomes_%26_Bioinformatics_(current)-A02337?style=for-the-badge&logoColor=FFFFFF" alt="CUHK — Genomes & Bioinformatics"/>
 </p>
 
 <p align="center">
