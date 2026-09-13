@@ -9,8 +9,8 @@
 <p>
   <a href="https://github.com/rollroyces"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://orcid.org/0009-0008-9113-769X"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
-  <img src="https://img.shields.io/badge/M.S._ADS-University_of_Michigan-00274C?style=for-the-badge&logoColor=FFCB05" alt="M.S. Applied Data Science — University of Michigan"/>
-  <img src="https://img.shields.io/badge/CUHK-Genomes_%26_Bioinformatics_(current)-A02337?style=for-the-badge&logoColor=FFFFFF" alt="CUHK — Genomes & Bioinformatics"/>
+  <img src="https://img.shields.io/badge/MICH-M.S._Applied_Data_Science-00274C?style=for-the-badge&logoColor=FFCB05" alt="M.S. Applied Data Science — University of Michigan"/>
+  <img src="https://img.shields.io/badge/CUHK-Genomes_%26_Bioinformatics-A02337?style=for-the-badge&logoColor=FFFFFF" alt="CUHK — Genomes & Bioinformatics"/>
 </p>
 
 </div>
@@ -137,8 +137,8 @@ Real-time stats: <a href="https://github.com/rollroyces?tab=repositories"><stron
 <p align="center">
   <a href="https://github.com/rollroyces"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://orcid.org/0009-0008-9113-769X"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
-  <img src="https://img.shields.io/badge/M.S._ADS-University_of_Michigan-00274C?style=for-the-badge&logoColor=FFCB05" alt="M.S. Applied Data Science — University of Michigan"/>
-  <img src="https://img.shields.io/badge/CUHK-Genomes_%26_Bioinformatics_(current)-A02337?style=for-the-badge&logoColor=FFFFFF" alt="CUHK — Genomes & Bioinformatics"/>
+  <img src="https://img.shields.io/badge/MICH-M.S._Applied_Data_Science-00274C?style=for-the-badge&logoColor=FFCB05" alt="M.S. Applied Data Science — University of Michigan"/>
+  <img src="https://img.shields.io/badge/CUHK-Genomes_%26_Bioinformatics-A02337?style=for-the-badge&logoColor=FFFFFF" alt="CUHK — Genomes & Bioinformatics"/>
 </p>
 
 <p align="center">
