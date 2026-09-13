@@ -57,25 +57,16 @@ I'm **Royce** — a developer who splits my time between formal verification, ap
 
 ---
 
-## ⚡ Recent Activity
+## ✅ Recently Merged
 
-<p align="center">
-  <img src="https://img.shields.io/badge/148_commits_in_7_days-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="148 commits in 7 days"/>
-  <img src="https://img.shields.io/badge/260_commits_in_30_days-FFA94D?style=for-the-badge&logo=github&logoColor=white" alt="260 commits in 30 days"/>
-  <img src="https://img.shields.io/badge/65_PRs_opened_in_30_days-4DABF7?style=for-the-badge&logo=git&logoColor=white" alt="65 PRs opened in 30 days"/>
-</p>
+**43 PRs merged in the last 30 days.**
 
-**What I'm shipping this week:**
-
-| Repo | Recent commits | What it is |
+| Repo | Merged | Highlights |
 | --- | --- | --- |
-| [**py-idp**](https://github.com/rollroyces/py-idp) | 32 | AI document processing — 12+ LLM backends, OCR, HITL, FastAPI |
-| [**deepcatch-methylation**](https://github.com/rollroyces/deepcatch-methylation) | 27 | cfDNA CpG methylation cancer detection (Phase 0 → 1) |
-| [**employee-voice-analytics**](https://github.com/rollroyces/employee-voice-analytics) | 18 | NLP for HR feedback (sentiment / theme / attrition risk) |
-| [**erdos-125**](https://github.com/rollroyces/erdos-125) | 6 | Lean 4 formalization (axiom hunt continues) |
-| [**deeplethe/utopia**](https://github.com/deeplethe/utopia) | 8 | External contribution — schema columns carry primary/foreign keys, exploration coverage rendering, queued-read requeue semantics |
-
-**Most active hour:** 23:00 HKT (late-night shipper confirmed 📡)
+| [**nl2pbip**](https://github.com/rollroyces/nl2pbip) | **24** | Power Query M partitions · calculation groups + dynamic format strings · OLS · agentic self-reflection loop · Fabric Git-integration metadata · field parameters · curated ontology grounding (schema.org + PROV-O) · AI-driven schema advisor · OPC-compliant `.pbit` archives — full v1.0.0 ship |
+| [**py-idp**](https://github.com/rollroyces/py-idp) | **10** | AI document processing (12+ LLM backends, OCR, HITL, FastAPI) · MkDocs site + GitHub Pages · Receipt schema + CORD benchmark · curated Anthropic + HITL examples · Chinese README · PyPI publish (v0.3.1) |
+| [**deeplethe/utopia**](https://github.com/deeplethe/utopia) *(external)* | **8** | Schema columns carry PK/FK · exploration coverage rendering · queued-read requeue semantics · extraction prompt covers possessive / past-tense role forms |
+| [**deepcatch**](https://github.com/rollroyces/deepcatch) | 1 | tumor-naive cfDNA detection channel adapter |
 
 ---
 
