@@ -29,7 +29,7 @@ I'm **Royce** — a developer who splits my time between formal verification, ap
 - 📐 **Other research interests:** fluid dynamics (Navier–Stokes regularity, Tao averaged, Ladyzhenskaya), formal verification in Lean 4 + Mathlib4, additive combinatorics (Erdős #125).
 - 🛠️ **Stack:** Python, JAX / PyTorch, Lean 4 + Mathlib4, LaTeX (Tectonic), and way too much shell.
 - 🌏 **Time zone:** HKT (UTC+08) — usually awake when half the world is asleep.
-- ⚡ **Fun fact:** I dual-license my bigger repos (AGPL-3.0 + commercial) — pure copyleft *and* a sustainable path for downstream users.
+- ⚡ **Fun fact:** My bigger repos are licensed AGPL-3.0-or-later — copyleft, community-first.
 
 ---
 
@@ -76,7 +76,7 @@ I'm **Royce** — a developer who splits my time between formal verification, ap
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [**mrna-ai-toolkit**](https://github.com/rollroyces/mrna-ai-toolkit) | End-to-end mRNA design × AI: codon optimization, neoantigen screening, TrialGPT-style clinical-trial matching, scGPT embeddings, LNP composition, manufacturability checks. Dual-licensed (AGPL + commercial). | Python · PyTorch · HF |
+| [**mrna-ai-toolkit**](https://github.com/rollroyces/mrna-ai-toolkit) | End-to-end mRNA design × AI: codon optimization, neoantigen screening, TrialGPT-style clinical-trial matching, scGPT embeddings, LNP composition, manufacturability checks. AGPL-3.0-or-later. | Python · PyTorch · HF |
 | [**deepcatch**](https://github.com/rollroyces/deepcatch) | Performance-weighted multi-modal fusion for **ultra-early cfDNA cancer detection** — fragmentomics, methylation, sequence. | Python · ML |
 
 **Formal methods**
@@ -84,7 +84,7 @@ I'm **Royce** — a developer who splits my time between formal verification, ap
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [**ns-blowup**](https://github.com/rollroyces/ns-blowup) | Lean 4 + Mathlib4 formalization toward Navier–Stokes regularity (Ladyzhenskaya, Tao averaged, discrete bridges). 100+ theorems, 0 sorries. | Lean 4 |
-| [**erdos-125**](https://github.com/rollroyces/erdos-125) | Formal progress on Erdős #125 (sumset / density). log 3 / log 4 irrationality proved. Dual-licensed (AGPL + commercial). | Lean 4 |
+| [**erdos-125**](https://github.com/rollroyces/erdos-125) | Formal progress on Erdős #125 (sumset / density). log 3 / log 4 irrationality proved. AGPL-3.0-or-later. | Lean 4 |
 
 **Data science, ML & quantitative**
 
@@ -102,7 +102,7 @@ I'm **Royce** — a developer who splits my time between formal verification, ap
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [**py-idp**](https://github.com/rollroyces/py-idp) | AI Intelligent Document Processing: 12+ LLM backends, Pydantic schemas, self-hosted OCR (Nanonets-OCR2-3B), auto-schema discovery, HITL review, prod FastAPI. AGPL + commercial. | Python · FastAPI |
+| [**py-idp**](https://github.com/rollroyces/py-idp) | AI Intelligent Document Processing: 12+ LLM backends, Pydantic schemas, self-hosted OCR (Nanonets-OCR2-3B), auto-schema discovery, HITL review, prod FastAPI. AGPL-3.0-or-later. | Python · FastAPI |
 | [**scrapex**](https://github.com/rollroyces/scrapex) | AI-friendly web scraping for Python — URL + schema in, clean markdown + JSON out. | Python |
 | [**nl2pbip**](https://github.com/rollroyces/nl2pbip) | Natural-language → Power BI report generator. | Python |
 | [**MDST-Tutorial**](https://github.com/rollroyces/MDST-Tutorial) | Tutorial materials I authored for Michigan Data Science Team (MDST). | Jupyter |
