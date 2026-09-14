@@ -125,7 +125,7 @@ Real-time stats: <a href="https://github.com/rollroyces?tab=repositories"><stron
 | | |
 | --- | --- |
 | 🌟 Pinned repos | 4 flagship projects (see above) |
-| 🦈 Achievements | Pull Shark |
+| 🦈 Achievements | Pull Shark · Quickdraw |
 | 🎓 Education | M.S. Applied Data Science (U-Michigan) · genomes & bioinformatics (CUHK, current) |
 | 🌍 Region | Hong Kong (HKT, UTC+08) |
 | 📦 Public repos | <a href="https://github.com/rollroyces?tab=repositories">browse all</a> |
@@ -143,6 +143,16 @@ Real-time stats: <a href="https://github.com/rollroyces?tab=repositories"><stron
 
 <p align="center">
   <em>Open to interesting collaborations on formal math, mRNA tooling, ultra-early cancer detection, and applied LLM systems.</em>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <a href="https://github.com/rollroyces?achievement=pull-shark&tab=achievements"><img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" alt="Pull Shark" width="96" height="96"/></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/rollroyces?achievement=quickdraw&tab=achievements"><img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" alt="Quickdraw" width="96" height="96"/></a>
 </p>
 
 ---
