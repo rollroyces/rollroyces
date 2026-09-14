@@ -145,14 +145,10 @@ Real-time stats: <a href="https://github.com/rollroyces?tab=repositories"><stron
   <em>Open to interesting collaborations on formal math, mRNA tooling, ultra-early cancer detection, and applied LLM systems.</em>
 </p>
 
----
-
-## 🏆 GitHub Achievements
-
 <p align="center">
-  <a href="https://github.com/rollroyces?achievement=pull-shark&tab=achievements"><img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" alt="Pull Shark" width="96" height="96"/></a>
+  <a href="https://github.com/rollroyces?achievement=pull-shark&tab=achievements"><img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" alt="Pull Shark" width="64" height="64"/></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/rollroyces?achievement=quickdraw&tab=achievements"><img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" alt="Quickdraw" width="96" height="96"/></a>
+  <a href="https://github.com/rollroyces?achievement=quickdraw&tab=achievements"><img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" alt="Quickdraw" width="64" height="64"/></a>
 </p>
 
 ---
