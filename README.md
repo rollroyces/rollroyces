@@ -63,10 +63,13 @@ I'm **Royce** — a developer who splits my time between formal verification, ap
 
 | Repo | Highlights |
 | --- | --- |
-| [**nl2pbip**](https://github.com/rollroyces/nl2pbip) | Power Query M partitions · calculation groups + dynamic format strings · OLS · agentic self-reflection loop · Fabric Git-integration metadata · field parameters · curated ontology grounding (schema.org + PROV-O) · AI-driven schema advisor · OPC-compliant `.pbit` archives — full v1.0.0 ship |
-| [**py-idp**](https://github.com/rollroyces/py-idp) | AI document processing (12+ LLM backends, OCR, HITL, FastAPI) · MkDocs site + GitHub Pages · Receipt schema + CORD benchmark · curated Anthropic + HITL examples · Chinese README · PyPI publish (v0.3.1) |
-| [**deeplethe/utopia**](https://github.com/deeplethe/utopia) *(external)* | Schema columns carry PK/FK · exploration coverage rendering · queued-read requeue semantics · extraction prompt covers possessive / past-tense role forms |
-| [**deepcatch**](https://github.com/rollroyces/deepcatch) | tumor-naive cfDNA detection channel adapter |
+| [**py-idp**](https://github.com/rollroyces/py-idp) | AI document processing (12+ LLM backends, OCR, HITL, FastAPI). Recently: test coverage 87%→92%, 1000-example fuzzers, public `idp.console`, releases v0.3.5–v0.3.8 |
+| [**nl2pbip**](https://github.com/rollroyces/nl2pbip) | Natural-language → Power BI report generator. Recently: agentic self-reflection loop, Fabric Git-integration metadata, OPC-compliant `.pbit` archives, object-level security, calculation groups, AI-driven schema advisor |
+| [**deepcatch-methylation**](https://github.com/rollroyces/deepcatch-methylation) | cfDNA CpG methylation cancer detection — most active repo right now |
+| [**employee-voice-analytics**](https://github.com/rollroyces/employee-voice-analytics) | NLP for HR feedback (sentiment / theme / attrition risk) |
+| [**speaksql**](https://github.com/rollroyces/speaksql) | NL-to-SQL transpiler — Postgres, MySQL, Snowflake, BigQuery, SQL Server, Databricks, DuckDB, SQLite, SAP HANA |
+| [**deeplethe/utopia**](https://github.com/deeplethe/utopia) *(external)* | Schema columns carry PK/FK across MySQL/MariaDB · ROW_CAP semantics · blocked-derivations follow the recording axis |
+| [**debpalash/VoiceStudio**](https://github.com/debpalash/VoiceStudio) *(external)* | Test coverage extension for argos `lang_code` normalizer (aliases + invalid inputs) |
 
 ---
 
@@ -105,6 +108,7 @@ I'm **Royce** — a developer who splits my time between formal verification, ap
 | [**py-idp**](https://github.com/rollroyces/py-idp) | AI Intelligent Document Processing: 12+ LLM backends, Pydantic schemas, self-hosted OCR (Nanonets-OCR2-3B), auto-schema discovery, HITL review, prod FastAPI. AGPL-3.0-or-later. | Python · FastAPI |
 | [**scrapex**](https://github.com/rollroyces/scrapex) | AI-friendly web scraping for Python — URL + schema in, clean markdown + JSON out. | Python |
 | [**nl2pbip**](https://github.com/rollroyces/nl2pbip) | Natural-language → Power BI report generator. | Python |
+| [**speaksql**](https://github.com/rollroyces/speaksql) | NL-to-SQL transpiler — write once, query 9 dialects (Postgres, MySQL, Snowflake, BigQuery, SQL Server, Databricks, DuckDB, SQLite, SAP HANA). | Python |
 | [**MDST-Tutorial**](https://github.com/rollroyces/MDST-Tutorial) | Tutorial materials I authored for Michigan Data Science Team (MDST). | Jupyter |
 
 ---
