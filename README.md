@@ -2,7 +2,7 @@
 
 # Hi, I'm Royce 👋
 
-<p><strong>Bioinformatics · Data Science · mRNA × AI · cfDNA fragmentomics · Formal methods · Lean 4 + Python · HKT</strong></p>
+<p><strong>Bioinformatics · mRNA × AI · cfDNA fragmentomics · Formal methods · Lean 4 + Python · HKT</strong></p>
 
 <p><em>Developer · formal-verification hobbyist · ML-for-biology tinkerer.</em></p>
 
@@ -23,7 +23,7 @@ I'm **Royce** — a developer who splits my time between formal verification, ap
 
 🎓 **Background:** M.S. in Applied Data Science, University of Michigan. Currently studying **genomes and bioinformatics at CUHK**.
 
-- 🔭 **Right now:** shipping [mrna-ai-toolkit](https://github.com/rollroyces/mrna-ai-toolkit) (codon optimization, neoantigen screening, TrialGPT-style trial matching, scGPT embeddings, LNP chemistry, manufacturability), iterating on [deepcatch](https://github.com/rollroyces/deepcatch) (cfDNA fragmentomics + methylation → ultra-early multi-cancer detection), and grinding a Lean 4 formalization of Navier–Stokes regularity.
+- 🔭 **Right now:** shipping [**mrna-ai-toolkit**](https://github.com/rollroyces/mrna-ai-toolkit) (codon optimization, neoantigen screening, TrialGPT-style trial matching, scGPT embeddings, LNP chemistry, manufacturability), iterating on [**deepcatch**](https://github.com/rollroyces/deepcatch) (cfDNA fragmentomics + methylation → ultra-early multi-cancer detection), and grinding a Lean 4 formalization of Navier–Stokes regularity.
 - 🧬 **Bioinformatics & computational biology (current focus):** mRNA design pipeline (codon, UTR, secondary structure, manufacturability), cancer immunotherapy & neoantigen prediction, cfDNA fragmentomics and methylation signatures, lipid-nanoparticle formulation, scRNA-seq foundation models, AI-driven clinical trial matching — coursework + research at CUHK.
 - 📊 **Data science & ML:** multi-modal medical imaging, ultra-sensitive ctDNA detection (0.001% VAF), fragmentomics feature engineering (FSD, 4-mer motifs, DELFI/WPS, GC-bias correction), NLP for HR analytics (sentiment / emotion / attrition risk), quantitative finance signal design, time-series forecasting, classical ML + deep learning + reinforcement learning — anchored in my M.S. at Michigan.
 - 📐 **Other research interests:** fluid dynamics (Navier–Stokes regularity, Tao averaged, Ladyzhenskaya), formal verification in Lean 4 + Mathlib4, additive combinatorics (Erdős #125).
@@ -120,7 +120,7 @@ I'm **Royce** — a developer who splits my time between formal verification, ap
 - 📖 Formal methods / Lean 4 collaboration
 - 🤝 Mentoring / TA opportunities at the intersection of data science and biology
 
-Drop me a line via GitHub Issues or ORCID.
+Drop me a line via GitHub Issues or [ORCID](https://orcid.org/0009-0008-9113-769X).
 
 ## 📊 GitHub Stats
 
@@ -128,8 +128,8 @@ Real-time stats: <a href="https://github.com/rollroyces?tab=repositories"><stron
 
 | | |
 | --- | --- |
-| 🌟 Pinned repos | 4 flagship projects (see above) |
-| 🦈 Achievements | Pull Shark · Quickdraw |
+| 🌟 Pinned repos | mrna-ai-toolkit · deepcatch · ns-blowup · erdos-125 · py-idp · speaksql |
+| 🦈 Achievements | Pull Shark · Starstruck · Quickdraw |
 | 🎓 Education | M.S. Applied Data Science (U-Michigan) · genomes & bioinformatics (CUHK, current) |
 | 🌍 Region | Hong Kong (HKT, UTC+08) |
 | 📦 Public repos | <a href="https://github.com/rollroyces?tab=repositories">browse all</a> |
@@ -153,6 +153,8 @@ Real-time stats: <a href="https://github.com/rollroyces?tab=repositories"><stron
   <a href="https://github.com/rollroyces?achievement=pull-shark&tab=achievements"><img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" alt="Pull Shark" width="64" height="64"/></a>
   &nbsp;&nbsp;
   <a href="https://github.com/rollroyces?achievement=quickdraw&tab=achievements"><img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" alt="Quickdraw" width="64" height="64"/></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/rollroyces?achievement=starstruck&tab=achievements"><img src="https://github.githubassets.com/assets/starstruck-default-b6610abad518.png" alt="Starstruck" width="64" height="64"/></a>
 </p>
 
 ---
