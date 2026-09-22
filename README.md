@@ -128,7 +128,7 @@ Real-time stats: <a href="https://github.com/rollroyces?tab=repositories"><stron
 
 | | |
 | --- | --- |
-| 🌟 Pinned repos | mrna-ai-toolkit · deepcatch · ns-blowup · erdos-125 · py-idp · speaksql |
+| 🌟 Pinned repos | deepcatch · mrnavax · ns-blowup · py-idp · erdos-125 |
 | 🦈 Achievements | Pull Shark · Starstruck · Quickdraw |
 | 🎓 Education | M.S. Applied Data Science (U-Michigan) · genomes & bioinformatics (CUHK, current) |
 | 🌍 Region | Hong Kong (HKT, UTC+08) |
@@ -160,5 +160,5 @@ Real-time stats: <a href="https://github.com/rollroyces?tab=repositories"><stron
 ---
 
 <div align="center">
-  <sub>Last updated · September 2026 · <code>rollroyces/README.md</code></sub>
+  <sub><code>rollroyces/README.md</code></sub>
 </div>
