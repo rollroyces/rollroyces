@@ -4,7 +4,11 @@
 
 <p><strong>Bioinformatics · mRNA × AI · cfDNA fragmentomics · Formal methods · Lean 4 + Python · HKT</strong></p>
 
-<p><em>Developer · formal-verification hobbyist · ML-for-biology tinkerer.</em></p>
+<p align="center"><em>Developer · formal-verification hobbyist · ML-for-biology tinkerer.</em></p>
+
+<p align="center">
+  <strong>Now:</strong> shipping <a href="https://github.com/rollroyces/speaksql">speaksql</a> (NL→SQL across 9 dialects) · <a href="https://github.com/rollroyces/py-idp">py-idp</a> v0.3.8 (coverage 92%, fuzzers, idp.console) · <a href="https://github.com/rollroyces/deepcatch-methylation">deepcatch-methylation</a> (cfDNA CpG site discovery) · <a href="https://github.com/rollroyces/nl2pbip">nl2pbip</a> v1.0.0 (Power BI from natural language) · upstream PRs on <a href="https://github.com/deeplethe/utopia">utopia</a>.
+</p>
 
 <p>
   <a href="https://github.com/rollroyces"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
