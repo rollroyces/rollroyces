@@ -140,6 +140,28 @@ Real-time stats: <a href="https://github.com/rollroyces?tab=repositories"><stron
 
 ---
 
+## 🎥 In motion
+
+<p align="center">
+  <a href="https://github.com/rollroyces/mrna-ai-toolkit#demo-videos"><img src="https://raw.githubusercontent.com/rollroyces/mrna-ai-toolkit/main/docs/assets/mrnavax_demo.gif" alt="mrna-ai-toolkit end-to-end demo — 11 tools in mock mode" width="640"/></a>
+</p>
+
+<p align="center">
+  <em>mrna-ai-toolkit — <a href="https://github.com/rollroyces/mrna-ai-toolkit/blob/main/docs/assets/mrnavax_demo.mp4">▶ full mp4</a></em>
+</p>
+
+<p align="center">
+  <a href="https://github.com/rollroyces/nl2pbip#three-surfaces-three-recordings"><img src="https://raw.githubusercontent.com/rollroyces/nl2pbip/main/assets/demo.gif" alt="nl2pbip no-LLM demo: 11-step plan in ~1s" width="640"/></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/rollroyces/nl2pbip#three-surfaces-three-recordings"><img src="https://raw.githubusercontent.com/rollroyces/nl2pbip/main/assets/llm_demo.gif" alt="nl2pbip LLM-driven demo: orchestrator with mock client" width="640"/></a>
+</p>
+
+<p align="center">
+  <em>nl2pbip — <a href="https://github.com/rollroyces/nl2pbip/blob/main/assets/demo.mp4">no-LLM mp4</a> · <a href="https://github.com/rollroyces/nl2pbip/blob/main/assets/llm_demo.mp4">LLM mp4</a> · <a href="https://github.com/rollroyces/nl2pbip/blob/main/assets/mcp_demo.mp4">MCP stdio mp4</a></em>
+</p>
+
+---
+
 ## 🌐 Connect with Me
 
 <p align="center">
@@ -157,6 +179,10 @@ Real-time stats: <a href="https://github.com/rollroyces?tab=repositories"><stron
   <a href="https://github.com/rollroyces?achievement=pull-shark&tab=achievements"><img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" alt="Pull Shark" width="64" height="64"/></a>
   &nbsp;&nbsp;
   <a href="https://github.com/rollroyces?achievement=quickdraw&tab=achievements"><img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" alt="Quickdraw" width="64" height="64"/></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/rollroyces?achievement=starstruck&tab=achievements"><img src="https://github.githubassets.com/assets/starstruck-default-b6610abad518.png" alt="Starstruck" width="64" height="64"/></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/rollroyces?achievement=pair-extraordinaire&tab=achievements"><img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" alt="Pair Extraordinaire" width="64" height="64"/></a>
 </p>
 
 ---
