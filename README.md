@@ -1,10 +1,19 @@
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner.svg">
+  <img src="./assets/banner.svg" alt="Royce — bioinformatics, mRNA, formal methods, cfDNA" width="100%"/>
+</picture>
+
 # Hi, I'm Royce 👋
 
 <p><strong>Bioinformatics · Data Science · mRNA × AI · cfDNA fragmentomics · Formal methods · Lean 4 + Python · HKT</strong></p>
 
 <p align="center"><em>Developer · formal-verification hobbyist · ML-for-biology tinkerer.</em></p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=true&width=620&lines=Bioinformatics+%2B+Data+Science;Shipping+mRNA+%C3%97+AI+tools;Proving+math+in+Lean+4;Detecting+cancer+in+cfDNA" alt="typing svg: bioinformatics, mRNA, formal methods, cfDNA"/>
+</p>
 
 <p align="center">
   <strong>Now:</strong> shipping <a href="https://github.com/rollroyces/speaksql">speaksql</a> (NL→SQL across 9 dialects) · <a href="https://github.com/rollroyces/py-idp">py-idp</a> v0.3.8 (coverage 92%, fuzzers, idp.console) · <a href="https://github.com/rollroyces/deepcatch-methylation">deepcatch-methylation</a> (cfDNA CpG site discovery) · <a href="https://github.com/rollroyces/nl2pbip">nl2pbip</a> v1.0.0 (Power BI from natural language) · upstream PRs on <a href="https://github.com/deeplethe/utopia">utopia</a>.
@@ -21,7 +30,7 @@
 
 ---
 
-## 🧭 About Me
+## <img src="https://img.shields.io/badge/-About_Me-FF6B6B?style=for-the-badge&logo=read.cv&logoColor=white&labelColor=FF6B6B" alt="About Me" align="absmiddle"/>
 
 I'm **Royce** — a developer who splits my time between formal verification, applied ML for biology, and the occasional late-night PR review. I like problems where the math has to check out *and* the code has to ship.
 
@@ -37,7 +46,7 @@ I'm **Royce** — a developer who splits my time between formal verification, ap
 
 ---
 
-## 🧰 Tech Stack & Tools
+## <img src="https://img.shields.io/badge/-Tech_Stack_%26_Tools-FFA94D?style=for-the-badge&logo=stackedit&logoColor=white&labelColor=FFA94D" alt="Tech Stack" align="absmiddle"/>
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -61,7 +70,7 @@ I'm **Royce** — a developer who splits my time between formal verification, ap
 
 ---
 
-## ✅ Recent Contributions
+## <img src="https://img.shields.io/badge/-Recent_Contributions-FFD43B?style=for-the-badge&logo=git&logoColor=white&labelColor=FFD43B" alt="Recent Contributions" align="absmiddle"/>
 
 **Projects I've been actively shipping to:**
 
@@ -77,7 +86,7 @@ I'm **Royce** — a developer who splits my time between formal verification, ap
 
 ---
 
-## 🔬 Current Projects
+## <img src="https://img.shields.io/badge/-Current_Projects-4DD9CC?style=for-the-badge&logo=project&logoColor=white&labelColor=4DD9CC" alt="Current Projects" align="absmiddle"/>
 
 **Bioinformatics & computational biology**
 
@@ -117,7 +126,7 @@ I'm **Royce** — a developer who splits my time between formal verification, ap
 
 ---
 
-## 🤝 Open To
+## <img src="https://img.shields.io/badge/-Open_To_Collaborate-74C0FC?style=for-the-badge&logo=handshake&logoColor=white&labelColor=74C0FC" alt="Open To" align="absmiddle"/>
 
 - 🧪 Collaborative research on cfDNA / mRNA / fragmentomics
 - 🛠️ Production LLM / AI tooling partnerships (especially document AI, OCR, applied NLP)
@@ -126,7 +135,7 @@ I'm **Royce** — a developer who splits my time between formal verification, ap
 
 Drop me a line via GitHub Issues or ORCID.
 
-## 📊 GitHub Stats
+## <img src="https://img.shields.io/badge/-GitHub_Stats-A9A9A9?style=for-the-badge&logo=github&logoColor=white&labelColor=A9A9A9" alt="GitHub Stats" align="absmiddle"/>
 
 Real-time stats: <a href="https://github.com/rollroyces?tab=repositories"><strong>github.com/rollroyces?tab=repositories</strong></a>
 
@@ -140,7 +149,7 @@ Real-time stats: <a href="https://github.com/rollroyces?tab=repositories"><stron
 
 ---
 
-## 🎨 Selected work
+## <img src="https://img.shields.io/badge/-Selected_Work-B197FC?style=for-the-badge&logo=eye&logoColor=white&labelColor=B197FC" alt="Selected Work" align="absmiddle"/>
 
 **Architecture, schema, and research figures — not terminal recordings.**
 
@@ -172,7 +181,7 @@ Real-time stats: <a href="https://github.com/rollroyces?tab=repositories"><stron
 
 ---
 
-## 🌐 Connect with Me
+## <img src="https://img.shields.io/badge/-Connect_With_Me-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="Connect With Me" align="absmiddle"/>
 
 <p align="center">
   <a href="https://github.com/rollroyces"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
