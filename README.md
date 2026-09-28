@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Royce — bioinformatics, mRNA, formal methods, cfDNA" width="100%"/>
-
 # Hi, I'm Royce 👋
 
 <p><strong>Bioinformatics · Data Science · mRNA × AI · cfDNA fragmentomics · Formal methods · Lean 4 + Python · HKT</strong></p>
