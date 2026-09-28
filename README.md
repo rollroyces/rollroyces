@@ -16,13 +16,6 @@
   <strong>Now:</strong> shipping <a href="https://github.com/rollroyces/speaksql">speaksql</a> (NL→SQL across 9 dialects) · <a href="https://github.com/rollroyces/py-idp">py-idp</a> v0.3.8 (coverage 92%, fuzzers, idp.console) · <a href="https://github.com/rollroyces/deepcatch-methylation">deepcatch-methylation</a> (cfDNA CpG site discovery) · <a href="https://github.com/rollroyces/nl2pbip">nl2pbip</a> v1.0.0 (Power BI from natural language) · upstream PRs on <a href="https://github.com/deeplethe/utopia">utopia</a>.
 </p>
 
-<p>
-  <a href="https://github.com/rollroyces"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://orcid.org/0009-0008-9113-769X"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
-  <img src="https://img.shields.io/badge/MICH-M.S._Applied_Data_Science-00274C?style=for-the-badge&logoColor=FFCB05" alt="M.S. Applied Data Science — University of Michigan"/>
-  <img src="https://img.shields.io/badge/CUHK-Genomes_%26_Bioinformatics-A02337?style=for-the-badge&logoColor=FFFFFF" alt="CUHK — Genomes & Bioinformatics"/>
-</p>
-
 </div>
 
 ---
@@ -134,12 +127,12 @@ Drop me a line via GitHub Issues or ORCID.
 
 ## <img src="https://img.shields.io/badge/-GitHub_Stats-A9A9A9?style=for-the-badge&logo=github&logoColor=white&labelColor=A9A9A9" alt="GitHub Stats" align="absmiddle"/>
 
-Real-time stats: <a href="https://github.com/rollroyces?tab=repositories"><strong>github.com/rollroyces?tab=repositories</strong></a>
+Real-time stats — <a href="https://github.com/rollroyces?tab=repositories"><strong>see all 41 repos</strong></a>
 
 | | |
 | --- | --- |
 | 🦈 Achievements | Pull Shark · Quickdraw · Starstruck · Pair Extraordinaire |
-| 🎓 Education | M.S. Applied Data Science (U-Michigan) · genomes & bioinformatics (CUHK, current) |
+| 🎓 Education | M.S. Applied Data Science — U-Michigan · genomes & bioinformatics — CUHK |
 | 🌍 Region | Hong Kong (HKT, UTC+08) |
 | 📦 Public repos | <a href="https://github.com/rollroyces?tab=repositories">browse all</a> |
 
