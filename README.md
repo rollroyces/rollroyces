@@ -1,9 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner.svg">
-  <img src="./assets/banner.svg" alt="Royce — bioinformatics, mRNA, formal methods, cfDNA" width="100%"/>
-</picture>
+<img src="./assets/banner.svg" alt="Royce — bioinformatics, mRNA, formal methods, cfDNA" width="100%"/>
 
 # Hi, I'm Royce 👋
 
@@ -12,8 +9,10 @@
 <p align="center"><em>Developer · formal-verification hobbyist · ML-for-biology tinkerer.</em></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=true&width=620&lines=Bioinformatics+%2B+Data+Science;Shipping+mRNA+%C3%97+AI+tools;Proving+math+in+Lean+4;Detecting+cancer+in+cfDNA" alt="typing svg: bioinformatics, mRNA, formal methods, cfDNA"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=true&width=620&lines=Bioinformatics+%2B+Data+Science;Shipping+mRNA+%C3%97+AI+tools;Proving+math+in+Lean+4;Detecting+cancer+in+cfDNA" alt="typing svg" width="620" style="max-width:100%;"/>
 </p>
+
+<br/>
 
 <p align="center">
   <strong>Now:</strong> shipping <a href="https://github.com/rollroyces/speaksql">speaksql</a> (NL→SQL across 9 dialects) · <a href="https://github.com/rollroyces/py-idp">py-idp</a> v0.3.8 (coverage 92%, fuzzers, idp.console) · <a href="https://github.com/rollroyces/deepcatch-methylation">deepcatch-methylation</a> (cfDNA CpG site discovery) · <a href="https://github.com/rollroyces/nl2pbip">nl2pbip</a> v1.0.0 (Power BI from natural language) · upstream PRs on <a href="https://github.com/deeplethe/utopia">utopia</a>.
@@ -141,7 +140,6 @@ Real-time stats: <a href="https://github.com/rollroyces?tab=repositories"><stron
 
 | | |
 | --- | --- |
-| 🌟 Pinned repos | 4 flagship projects (see above) |
 | 🦈 Achievements | Pull Shark · Quickdraw · Starstruck · Pair Extraordinaire |
 | 🎓 Education | M.S. Applied Data Science (U-Michigan) · genomes & bioinformatics (CUHK, current) |
 | 🌍 Region | Hong Kong (HKT, UTC+08) |
@@ -207,5 +205,5 @@ Real-time stats: <a href="https://github.com/rollroyces?tab=repositories"><stron
 ---
 
 <div align="center">
-  <sub>Last updated · September 2026 · <code>rollroyces/README.md</code></sub>
+  <sub><a href="https://github.com/rollroyces?tab=achievements">★ 4 GitHub achievements</a> · <a href="https://orcid.org/0009-0008-9113-769X">ORCID</a> · <a href="https://github.com/rollroyces?tab=repositories">41 public repos</a></sub>
 </div>
