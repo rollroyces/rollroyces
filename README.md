@@ -140,24 +140,34 @@ Real-time stats: <a href="https://github.com/rollroyces?tab=repositories"><stron
 
 ---
 
-## 🎥 In motion
+## 🎨 Selected work
+
+**Architecture, schema, and research figures — not terminal recordings.**
 
 <p align="center">
-  <a href="https://github.com/rollroyces/mrna-ai-toolkit#demo-videos"><img src="https://raw.githubusercontent.com/rollroyces/mrna-ai-toolkit/main/docs/assets/mrnavax_demo.gif" alt="mrna-ai-toolkit end-to-end demo — 11 tools in mock mode" width="640"/></a>
+  <a href="https://github.com/rollroyces/mrna-ai-toolkit/blob/main/docs/assets/pipeline.svg"><img src="https://raw.githubusercontent.com/rollroyces/mrna-ai-toolkit/main/docs/assets/pipeline.svg" alt="mrnavax pipeline: codon → variant → neoantigen → trial → LNP → manufactured mRNA vaccine" width="900"/></a>
 </p>
 
 <p align="center">
-  <em>mrna-ai-toolkit — <a href="https://github.com/rollroyces/mrna-ai-toolkit/blob/main/docs/assets/mrnavax_demo.mp4">▶ full mp4</a></em>
+  <em>mrnavax — mRNA cancer therapy AI pipeline (<a href="https://github.com/rollroyces/mrna-ai-toolkit/blob/main/docs/assets/pipeline.svg">SVG source</a> · <a href="https://github.com/rollroyces/mrna-ai-toolkit">repo</a>)</em>
 </p>
 
 <p align="center">
-  <a href="https://github.com/rollroyces/nl2pbip#three-surfaces-three-recordings"><img src="https://raw.githubusercontent.com/rollroyces/nl2pbip/main/assets/demo.gif" alt="nl2pbip no-LLM demo: 11-step plan in ~1s" width="640"/></a>
+  <a href="https://github.com/rollroyces/py-idp/blob/main/docs/assets/demo-hitl.svg"><img src="https://raw.githubusercontent.com/rollroyces/py-idp/main/docs/assets/demo-hitl.svg" alt="py-idp HITL review mockup: receipt queue + extracted fields panel" width="640"/></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/rollroyces/nl2pbip#three-surfaces-three-recordings"><img src="https://raw.githubusercontent.com/rollroyces/nl2pbip/main/assets/llm_demo.gif" alt="nl2pbip LLM-driven demo: orchestrator with mock client" width="640"/></a>
+  <a href="https://github.com/rollroyces/speaksql/blob/main/docs/join_graph_example/join_graph.svg"><img src="https://raw.githubusercontent.com/rollroyces/speaksql/main/docs/join_graph_example/join_graph.svg" alt="speakSQL join graph: 6 tables with FK relationships inferred from data" width="640"/></a>
 </p>
 
 <p align="center">
-  <em>nl2pbip — <a href="https://github.com/rollroyces/nl2pbip/blob/main/assets/demo.mp4">no-LLM mp4</a> · <a href="https://github.com/rollroyces/nl2pbip/blob/main/assets/llm_demo.mp4">LLM mp4</a> · <a href="https://github.com/rollroyces/nl2pbip/blob/main/assets/mcp_demo.mp4">MCP stdio mp4</a></em>
+  <em>py-idp HITL review (<a href="https://github.com/rollroyces/py-idp/blob/main/docs/assets/demo-hitl.svg">SVG</a>) &nbsp;·&nbsp; speakSQL auto-discovered join graph (<a href="https://github.com/rollroyces/speaksql/blob/main/docs/join_graph_example/join_graph.svg">SVG</a>)</em>
+</p>
+
+<p align="center">
+  <a href="https://github.com/rollroyces/deepcatch/blob/main/docs/figures/fig1_pooled_roc.png"><img src="https://raw.githubusercontent.com/rollroyces/deepcatch/main/docs/figures/fig1_pooled_roc.png" alt="deepcatch pooled ROC curve across cancer types" width="640"/></a>
+</p>
+
+<p align="center">
+  <em>deepcatch — pooled ROC across cancer types (<a href="https://github.com/rollroyces/deepcatch/blob/main/docs/figures/fig1_pooled_roc.png">fig1</a> · <a href="https://github.com/rollroyces/deepcatch/blob/main/docs/figures/fig4_sens_operating_points.png">fig4</a> · <a href="https://github.com/rollroyces/deepcatch">repo</a>)</em>
 </p>
 
 ---
