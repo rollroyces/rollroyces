@@ -6,10 +6,6 @@
 
 <p align="center"><em>Developer · formal-verification hobbyist · ML-for-biology tinkerer.</em></p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=720&lines=Bioinformatics+%2B+Data+Science;Shipping+mRNA+%C3%97+AI+tools;Proving+math+in+Lean+4;Detecting+cancer+in+cfDNA" alt="Bioinformatics + Data Science · Shipping mRNA × AI tools · Proving math in Lean 4 · Detecting cancer in cfDNA" width="720" style="max-width:100%;"/>
-</p>
-
 <br/>
 
 <p align="center">
