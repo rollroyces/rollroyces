@@ -1,196 +1,92 @@
 <div align="center">
 
-# Hi, I'm Royce 👋
+# Hi, I'm Royce
 
-<p><strong>Bioinformatics · Data Science · mRNA × AI · cfDNA fragmentomics · Formal methods · Lean 4 + Python · HKT</strong></p>
+**ML × bioinformatics engineer** — production AI for mRNA design and cfDNA cancer detection.
 
-<p align="center"><em>Developer · formal-verification hobbyist · ML-for-biology tinkerer.</em></p>
-
-<br/>
-
-<p align="center">
-  <strong>Now:</strong> shipping <a href="https://github.com/rollroyces/speaksql">speaksql</a> (NL→SQL across 9 dialects) · <a href="https://github.com/rollroyces/py-idp">py-idp</a> v0.3.8 (coverage 92%, fuzzers, idp.console) · <a href="https://github.com/rollroyces/deepcatch-methylation">deepcatch-methylation</a> (cfDNA CpG site discovery) · <a href="https://github.com/rollroyces/nl2pbip">nl2pbip</a> v1.0.0 (Power BI from natural language) · upstream PRs on <a href="https://github.com/deeplethe/utopia">utopia</a>.
+<p>
+  <a href="mailto:roycelam@umich.edu"><img src="https://img.shields.io/badge/Email-roycelam@umich.edu-blue?style=flat-square" alt="Email"/></a>
+  <a href="https://orcid.org/0009-0008-9113-769X"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"/></a>
+  <a href="https://github.com/rollroyces"><img src="https://img.shields.io/badge/GitHub-rollroyces-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+  <img src="https://img.shields.io/badge/HKT-UTC+8-2ea44f?style=flat-square" alt="Time zone"/>
+  <img src="https://img.shields.io/badge/Open_to-Remote_%2F_Relocation-success?style=flat-square" alt="Open to"/>
 </p>
-
 </div>
 
 ---
 
-## <img src="https://img.shields.io/badge/-About_Me-FF6B6B?style=for-the-badge&logo=read.cv&logoColor=white&labelColor=FF6B6B" alt="About Me" align="absmiddle"/>
+## About
 
-I'm **Royce** — a developer who splits my time between formal verification, applied ML for biology, and the occasional late-night PR review. I like problems where the math has to check out *and* the code has to ship.
+I'm Royce — an ML engineer working at the intersection of **biology and AI**. I ship end-to-end systems: codon-optimized mRNA design, cfDNA fragmentomics pipelines for ultra-early cancer detection, and production AI tooling (LLM backends, OCR, NL→SQL) that runs at scale.
 
-🎓 **Background:** M.S. in Applied Data Science, University of Michigan. Currently studying **genomes and bioinformatics at CUHK**.
+- 🎓 **M.S. Applied Data Science**, University of Michigan · currently **bioinformatics** at CUHK
+- 🧬 Day-job focus: **mRNA design × AI** (codon, UTR, structure, neoantigen, LNP) and **cfDNA fragmentomics + methylation** (0.001% VAF detection, multi-cancer)
+- 🛠️ Also ship applied AI systems — production document AI (FastAPI, 12+ LLM backends), NL→SQL transpilers, agentic workflows
+- 🌏 Hong Kong (HKT, UTC+8) · **open to remote and relocation worldwide**
 
-- 🔭 **Right now:** shipping [mrna-ai-toolkit](https://github.com/rollroyces/mrna-ai-toolkit) (codon optimization, neoantigen screening, TrialGPT-style trial matching, scGPT embeddings, LNP chemistry, manufacturability), iterating on [deepcatch](https://github.com/rollroyces/deepcatch) (cfDNA fragmentomics + methylation → ultra-early multi-cancer detection), and grinding a Lean 4 formalization of Navier–Stokes regularity.
-- 🧬 **Bioinformatics & computational biology (current focus):** mRNA design pipeline (codon, UTR, secondary structure, manufacturability), cancer immunotherapy & neoantigen prediction, cfDNA fragmentomics and methylation signatures, lipid-nanoparticle formulation, scRNA-seq foundation models, AI-driven clinical trial matching — coursework + research at CUHK.
-- 📊 **Data science & ML:** multi-modal medical imaging, ultra-sensitive ctDNA detection (0.001% VAF), fragmentomics feature engineering (FSD, 4-mer motifs, DELFI/WPS, GC-bias correction), NLP for HR analytics (sentiment / emotion / attrition risk), quantitative finance signal design, time-series forecasting, classical ML + deep learning + reinforcement learning — anchored in my M.S. at Michigan.
-- 📐 **Other research interests:** fluid dynamics (Navier–Stokes regularity, Tao averaged, Ladyzhenskaya), formal verification in Lean 4 + Mathlib4, additive combinatorics (Erdős #125).
-- 🛠️ **Stack:** Python, JAX / PyTorch, Lean 4 + Mathlib4, LaTeX (Tectonic), and way too much shell.
-- 🌏 **Time zone:** HKT (UTC+08) — usually awake when half the world is asleep.
-- ⚡ **Fun fact:** My bigger repos are licensed AGPL-3.0-or-later — copyleft, community-first.
+## Open to roles
 
----
+- **ML Engineer** — applied AI / LLM systems
+- **Bioinformatics / Computational Biology Engineer** — mRNA design, liquid biopsy, foundation models for biology
+- **Research Engineer** — ML-for-biology, scRNA-seq, foundation models
+- Part-time / consulting on cfDNA, mRNA tooling, formal methods
 
-## <img src="https://img.shields.io/badge/-Tech_Stack_%26_Tools-FFA94D?style=for-the-badge&logo=stackedit&logoColor=white&labelColor=FFA94D" alt="Tech Stack" align="absmiddle"/>
+## Featured work
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/JAX-FDDC2C?style=for-the-badge&logoColor=black" alt="JAX"/>
-  <img src="https://img.shields.io/badge/Lean_4-100000?style=for-the-badge&logoColor=00BFA5" alt="Lean 4"/>
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS"/>
-</p>
+| Project | What it does | Why it matters |
+| --- | --- | --- |
+| [**deepcatch**](https://github.com/rollroyces/deepcatch) | Performance-weighted multi-modal fusion for **ultra-early cfDNA cancer detection** (fragmentomics + methylation + sequence). | Targets 0.001% VAF sensitivity — multi-cancer screening before symptoms. |
+| [**mrna-ai-toolkit**](https://github.com/rollroyces/mrna-ai-toolkit) | End-to-end mRNA design pipeline: codon optimization, neoantigen screening, scGPT embeddings, TrialGPT-style trial matching, LNP formulation. | Bridges foundation models with therapeutic mRNA workflows. |
+| [**py-idp**](https://github.com/rollroyces/py-idp) | Production AI document processing: 12+ LLM backends, self-hosted OCR, HITL review, Pydantic schemas, FastAPI. | Real-world applied AI — 92% coverage, fuzzers, public `idp.console`, AGPL-3.0. |
+| [**deepcatch-methylation**](https://github.com/rollroyces/deepcatch-methylation) | CpG methylation-based cfDNA cancer detection — FinaleMe validation pipeline. | Companion to deepcatch, focused on the methylation channel. |
+| [**speaksql**](https://github.com/rollroyces/speaksql) | NL→SQL transpiler across **9 dialects** (Postgres, MySQL, Snowflake, BigQuery, SQL Server, Databricks, DuckDB, SQLite, SAP HANA). | Engineering-heavy language tooling — write once, query anywhere. |
+| [**ns-blowup**](https://github.com/rollroyces/ns-blowup) | Lean 4 + Mathlib4 formalization toward Navier–Stokes regularity. | Differentiator: formal-methods chops you don't usually see on ML eng resumes. |
 
----
+> See [**all 54 public repos →**](https://github.com/rollroyces?tab=repositories) for the full catalogue (cfDNA pipelines, quant signals, NL→SQL, formal math, LLM tooling).
 
-## <img src="https://img.shields.io/badge/-Recent_Contributions-FFD43B?style=for-the-badge&logo=git&logoColor=white&labelColor=FFD43B" alt="Recent Contributions" align="absmiddle"/>
-
-**Projects I've been actively shipping to:**
-
-| Repo | Highlights |
-| --- | --- |
-| [**py-idp**](https://github.com/rollroyces/py-idp) | AI document processing (12+ LLM backends, OCR, HITL, FastAPI). Recently: test coverage 87%→92%, 1000-example fuzzers, public `idp.console`, releases v0.3.5–v0.3.8 |
-| [**nl2pbip**](https://github.com/rollroyces/nl2pbip) | Natural-language → Power BI report generator. Recently: agentic self-reflection loop, Fabric Git-integration metadata, OPC-compliant `.pbit` archives, object-level security, calculation groups, AI-driven schema advisor |
-| [**deepcatch-methylation**](https://github.com/rollroyces/deepcatch-methylation) | cfDNA CpG methylation cancer detection — most active repo right now |
-| [**employee-voice-analytics**](https://github.com/rollroyces/employee-voice-analytics) | NLP for HR feedback (sentiment / theme / attrition risk) |
-| [**speaksql**](https://github.com/rollroyces/speaksql) | NL-to-SQL transpiler — Postgres, MySQL, Snowflake, BigQuery, SQL Server, Databricks, DuckDB, SQLite, SAP HANA |
-| [**deeplethe/utopia**](https://github.com/deeplethe/utopia) *(external)* | Schema columns carry PK/FK across MySQL/MariaDB · ROW_CAP semantics · blocked-derivations follow the recording axis |
-| [**debpalash/VoiceStudio**](https://github.com/debpalash/VoiceStudio) *(external)* | Test coverage extension for argos `lang_code` normalizer (aliases + invalid inputs) |
-
----
-
-## <img src="https://img.shields.io/badge/-Current_Projects-4DD9CC?style=for-the-badge&logo=project&logoColor=white&labelColor=4DD9CC" alt="Current Projects" align="absmiddle"/>
+## Selected work
 
 **Bioinformatics & computational biology**
+- [**cfdna-fragmentomics-pipeline**](https://github.com/rollroyces/cfdna-fragmentomics-pipeline) — Tumor-naive cfDNA features (FSD, 4-mer motifs, DELFI/WPS, GC-correction); Cancer-vs-Healthy on FinaleDB.
+- [**cancer-screening**](https://github.com/rollroyces/cancer-screening) — ML / DL / RL for 0.001% VAF ctDNA detection.
+- [**CMC**](https://github.com/rollroyces/CMC) — MICCAI 2024, robust semi-supervised multimodal medical image segmentation.
 
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [**mrna-ai-toolkit**](https://github.com/rollroyces/mrna-ai-toolkit) | End-to-end mRNA design × AI: codon optimization, neoantigen screening, TrialGPT-style clinical-trial matching, scGPT embeddings, LNP composition, manufacturability checks. AGPL-3.0-or-later. | Python · PyTorch · HF |
-| [**deepcatch**](https://github.com/rollroyces/deepcatch) | Performance-weighted multi-modal fusion for **ultra-early cfDNA cancer detection** — fragmentomics, methylation, sequence. | Python · ML |
+**Applied AI & production systems**
+- [**nl2pbip**](https://github.com/rollroyces/nl2pbip) — NL → Power BI report generator (v1.0.0, agentic self-reflection, Fabric integration).
+- [**scrapex**](https://github.com/rollroyces/scrapex) — AI-friendly web scraper (URL + schema → clean markdown/JSON).
+- [**employee-voice-analytics**](https://github.com/rollroyces/employee-voice-analytics) — HR NLP toolkit (sentiment, emotion, theme, attrition risk).
 
-**Formal methods**
+**Quantitative**
+- [**vcp-signals**](https://github.com/rollroyces/vcp-signals) · [**AI-Trader**](https://github.com/rollroyces/AI-Trader) · [**mr-strategy**](https://github.com/rollroyces/mr-strategy) · [**vmaa**](https://github.com/rollroyces/vmaa) — VCP patterns, mean-reversion, agent-native execution.
 
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [**ns-blowup**](https://github.com/rollroyces/ns-blowup) | Lean 4 + Mathlib4 formalization toward Navier–Stokes regularity (Ladyzhenskaya, Tao averaged, discrete bridges). 100+ theorems, 0 sorries. | Lean 4 |
-| [**erdos-125**](https://github.com/rollroyces/erdos-125) | Formal progress on Erdős #125 (sumset / density). log 3 / log 4 irrationality proved. AGPL-3.0-or-later. | Lean 4 |
+## Stack
 
-**Data science, ML & quantitative**
+**Production / ML**: Python · PyTorch · JAX · FastAPI · Pydantic · Hugging Face · Docker · GitHub Actions
+**Bioinformatics**: scGPT · codon optimization · fragmentomics · methylation calling · LNP chemistry · single-cell pipelines
+**Data**: pandas · scikit-learn · Jupyter · R
+**Formal / tooling**: Lean 4 + Mathlib4 · LaTeX (Tectonic) · Bash · macOS
 
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [**cancer-screening**](https://github.com/rollroyces/cancer-screening) | Ultra-sensitive Stage I cancer screening — ML / DL / RL for **0.001% VAF ctDNA detection**. | Python · ML |
-| [**cfdna-fragmentomics-pipeline**](https://github.com/rollroyces/cfdna-fragmentomics-pipeline) | Tumor-naive cfDNA pipeline: FSD, 4-mer motifs, DELFI/WPS, GC-bias correction, Cancer-vs-Healthy classifier on real FinaleDB. | Python |
-| [**deepcatch-methylation**](https://github.com/rollroyces/deepcatch-methylation) | CpG methylation-based cfDNA cancer detection (Phase 0: FinaleMe smoke validation). | Python |
-| [**CMC**](https://github.com/rollroyces/CMC) | MICCAI 2024 — Robust Semi-Supervised Multimodal Medical Image Segmentation via Cross Modality Collaboration. | Python |
-| [**employee-voice-analytics**](https://github.com/rollroyces/employee-voice-analytics) | NLP toolkit for HR feedback: sentiment, category, emotion, theme, attrition-risk. Local CLI + Databricks. | Python |
-| [**vmaa**](https://github.com/rollroyces/vmaa) · [**AI-Trader**](https://github.com/rollroyces/AI-Trader) · [**mr-strategy**](https://github.com/rollroyces/mr-strategy) · [**vcp-signals**](https://github.com/rollroyces/vcp-signals) | Quantitative trading pipelines: scan / price / risk / execution, VCP pattern detection, mean-reversion, agent-native automation. | Python |
-| [**PH125.9x heart-disease**](https://github.com/rollroyces/PH125.9x_heart-disease) · [**PH125.9x MovieLens**](https://github.com/rollroyces/PH125.9x_MovieLens) | HarvardX data-science coursework (R). | R |
-
-**Applied AI / production systems**
-
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [**py-idp**](https://github.com/rollroyces/py-idp) | AI Intelligent Document Processing: 12+ LLM backends, Pydantic schemas, self-hosted OCR (Nanonets-OCR2-3B), auto-schema discovery, HITL review, prod FastAPI. AGPL-3.0-or-later. | Python · FastAPI |
-| [**scrapex**](https://github.com/rollroyces/scrapex) | AI-friendly web scraping for Python — URL + schema in, clean markdown + JSON out. | Python |
-| [**nl2pbip**](https://github.com/rollroyces/nl2pbip) | Natural-language → Power BI report generator. | Python |
-| [**speaksql**](https://github.com/rollroyces/speaksql) | NL-to-SQL transpiler — write once, query 9 dialects (Postgres, MySQL, Snowflake, BigQuery, SQL Server, Databricks, DuckDB, SQLite, SAP HANA). | Python |
-| [**MDST-Tutorial**](https://github.com/rollroyces/MDST-Tutorial) | Tutorial materials I authored for Michigan Data Science Team (MDST). | Jupyter |
-
----
-
-## <img src="https://img.shields.io/badge/-Open_To_Collaborate-74C0FC?style=for-the-badge&logo=handshake&logoColor=white&labelColor=74C0FC" alt="Open To" align="absmiddle"/>
-
-- 🧪 Collaborative research on cfDNA / mRNA / fragmentomics
-- 🛠️ Production LLM / AI tooling partnerships (especially document AI, OCR, applied NLP)
-- 📖 Formal methods / Lean 4 collaboration
-- 🤝 Mentoring / TA opportunities at the intersection of data science and biology
-
-Drop me a line via GitHub Issues or ORCID.
-
-## <img src="https://img.shields.io/badge/-GitHub_Stats-A9A9A9?style=for-the-badge&logo=github&logoColor=white&labelColor=A9A9A9" alt="GitHub Stats" align="absmiddle"/>
-
-Real-time stats — <a href="https://github.com/rollroyces?tab=repositories"><strong>see all 41 repos</strong></a>
+## By the numbers
 
 | | |
 | --- | --- |
 | 🦈 Achievements | Pull Shark · Quickdraw · Starstruck · Pair Extraordinaire |
-| 🎓 Education | M.S. Applied Data Science — U-Michigan · genomes & bioinformatics — CUHK |
-| 🌍 Region | Hong Kong (HKT, UTC+08) |
-| 📦 Public repos | <a href="https://github.com/rollroyces?tab=repositories">browse all</a> |
+| 🎓 Education | M.S. Applied Data Science — U-Michigan · bioinformatics — CUHK |
+| 📦 Public repos | [**54**](https://github.com/rollroyces?tab=repositories) · AGPL-3.0-or-later on the bigger ones |
+| 🌍 Region | Hong Kong (HKT, UTC+8) · **open to remote and relocation worldwide** |
+| 🏅 Open source | Production-grade code, fuzz-tested, semantic-versioned releases |
+
+## Beyond work
+
+Formal-methods hobbyist: Lean 4 + Mathlib4 — formal progress on Navier–Stokes regularity and Erdős #125 (sumset density). Copyleft by conviction — bigger repos ship under AGPL-3.0-or-later.
+
+## Get in touch
+
+- 📧 **roycelam@umich.edu**
+- 🆔 **ORCID**: [0009-0008-9113-769X](https://orcid.org/0009-0008-9113-769X)
+- 💬 **GitHub Issues** on any of the repos above — fastest way to start a thread
+- 🌐 Open to remote worldwide · HK-based (UTC+8)
 
 ---
 
-## <img src="https://img.shields.io/badge/-Selected_Work-B197FC?style=for-the-badge&logo=eye&logoColor=white&labelColor=B197FC" alt="Selected Work" align="absmiddle"/>
-
-**Architecture, schema, and research figures — not terminal recordings.**
-
-<p align="center">
-  <a href="https://github.com/rollroyces/mrna-ai-toolkit/blob/main/docs/assets/pipeline.svg"><img src="https://raw.githubusercontent.com/rollroyces/mrna-ai-toolkit/main/docs/assets/pipeline.svg" alt="mrnavax pipeline: codon → variant → neoantigen → trial → LNP → manufactured mRNA vaccine" width="900"/></a>
-</p>
-
-<p align="center">
-  <em>mrnavax — mRNA cancer therapy AI pipeline (<a href="https://github.com/rollroyces/mrna-ai-toolkit/blob/main/docs/assets/pipeline.svg">SVG source</a> · <a href="https://github.com/rollroyces/mrna-ai-toolkit">repo</a>)</em>
-</p>
-
-<p align="center">
-  <a href="https://github.com/rollroyces/py-idp/blob/main/docs/assets/demo-hitl.svg"><img src="https://raw.githubusercontent.com/rollroyces/py-idp/main/docs/assets/demo-hitl.svg" alt="py-idp HITL review mockup: receipt queue + extracted fields panel" width="640"/></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/rollroyces/speaksql/blob/main/docs/join_graph_example/join_graph.svg"><img src="https://raw.githubusercontent.com/rollroyces/speaksql/main/docs/join_graph_example/join_graph.svg" alt="speakSQL join graph: 6 tables with FK relationships inferred from data" width="640"/></a>
-</p>
-
-<p align="center">
-  <em>py-idp HITL review (<a href="https://github.com/rollroyces/py-idp/blob/main/docs/assets/demo-hitl.svg">SVG</a>) &nbsp;·&nbsp; speakSQL auto-discovered join graph (<a href="https://github.com/rollroyces/speaksql/blob/main/docs/join_graph_example/join_graph.svg">SVG</a>)</em>
-</p>
-
-<p align="center">
-  <a href="https://github.com/rollroyces/deepcatch/blob/main/docs/figures/fig1_pooled_roc.png"><img src="https://raw.githubusercontent.com/rollroyces/deepcatch/main/docs/figures/fig1_pooled_roc.png" alt="deepcatch pooled ROC curve across cancer types" width="640"/></a>
-</p>
-
-<p align="center">
-  <em>deepcatch — pooled ROC across cancer types (<a href="https://github.com/rollroyces/deepcatch/blob/main/docs/figures/fig1_pooled_roc.png">fig1</a> · <a href="https://github.com/rollroyces/deepcatch/blob/main/docs/figures/fig4_sens_operating_points.png">fig4</a> · <a href="https://github.com/rollroyces/deepcatch">repo</a>)</em>
-</p>
-
----
-
-## <img src="https://img.shields.io/badge/-Connect_With_Me-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="Connect With Me" align="absmiddle"/>
-
-<p align="center">
-  <a href="https://github.com/rollroyces"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://orcid.org/0009-0008-9113-769X"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
-  <img src="https://img.shields.io/badge/MICH-M.S._Applied_Data_Science-00274C?style=for-the-badge&logoColor=FFCB05" alt="M.S. Applied Data Science — University of Michigan"/>
-  <img src="https://img.shields.io/badge/CUHK-Genomes_%26_Bioinformatics-A02337?style=for-the-badge&logoColor=FFFFFF" alt="CUHK — Genomes & Bioinformatics"/>
-</p>
-
-<p align="center">
-  <em>Open to interesting collaborations on formal math, mRNA tooling, ultra-early cancer detection, and applied LLM systems.</em>
-</p>
-
-<p align="center">
-  <a href="https://github.com/rollroyces?achievement=pull-shark&tab=achievements"><img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" alt="Pull Shark" width="64" height="64"/></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/rollroyces?achievement=quickdraw&tab=achievements"><img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" alt="Quickdraw" width="64" height="64"/></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/rollroyces?achievement=starstruck&tab=achievements"><img src="https://github.githubassets.com/assets/starstruck-default-b6610abad518.png" alt="Starstruck" width="64" height="64"/></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/rollroyces?achievement=pair-extraordinaire&tab=achievements"><img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" alt="Pair Extraordinaire" width="64" height="64"/></a>
-</p>
-
----
-
-<div align="center">
-  <sub><a href="https://github.com/rollroyces?tab=achievements">★ 4 GitHub achievements</a> · <a href="https://orcid.org/0009-0008-9113-769X">ORCID</a> · <a href="https://github.com/rollroyces?tab=repositories">41 public repos</a></sub>
-</div>
+<sub>Last polished 2026-10. Edit history on the [commits page](https://github.com/rollroyces/rollroyces/commits/main).</sub>
