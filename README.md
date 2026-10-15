@@ -8,8 +8,14 @@
   <a href="mailto:roycelam@umich.edu"><img src="https://img.shields.io/badge/Email-roycelam@umich.edu-blue?style=flat-square" alt="Email"/></a>
   <a href="https://orcid.org/0009-0008-9113-769X"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"/></a>
   <a href="https://github.com/rollroyces"><img src="https://img.shields.io/badge/GitHub-rollroyces-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://rollroyces.github.io"><img src="https://img.shields.io/website?style=flat-square&url=https%3A%2F%2Frollroyces.github.io&label=Website&logo=githubpages&logoColor=white" alt="Personal site"/></a>
   <img src="https://img.shields.io/badge/HKT-UTC+8-2ea44f?style=flat-square" alt="Time zone"/>
   <img src="https://img.shields.io/badge/Open_to-Remote_%2F_Relocation-success?style=flat-square" alt="Open to"/>
+</p>
+<p>
+  <img src="https://img.shields.io/github/stars/rollroyces?style=flat-square&logo=github&label=Stars" alt="Total stars"/>
+  <img src="https://img.shields.io/github/followers/rollroyces?style=flat-square&logo=github&label=Followers" alt="Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=rollroyces&color=2ea44f&style=flat-square&label=Views" alt="Profile views"/>
 </p>
 </div>
 
