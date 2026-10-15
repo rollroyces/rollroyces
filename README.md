@@ -76,6 +76,29 @@ I'm Royce — an ML engineer working at the intersection of **biology and AI**. 
 | 🌍 Region | Hong Kong (HKT, UTC+8) · **open to remote and relocation worldwide** |
 | 🏅 Open source | Production-grade code, fuzz-tested, semantic-versioned releases |
 
+## Selected figures
+
+<p align="center">
+  <a href="https://github.com/rollroyces/deepcatch/blob/main/docs/figures/fig1_pooled_roc.png"><img src="https://raw.githubusercontent.com/rollroyces/deepcatch/main/docs/figures/fig1_pooled_roc.png" alt="deepcatch pooled ROC curve across cancer types" width="900"/></a>
+</p>
+<p align="center"><em>deepcatch — pooled ROC across cancer types (<a href="https://github.com/rollroyces/deepcatch/blob/main/docs/figures/fig1_pooled_roc.png">fig1</a> · <a href="https://github.com/rollroyces/deepcatch">repo</a>)</em></p>
+
+<p align="center">
+  <a href="https://github.com/rollroyces/deepcatch/blob/main/docs/figures/fig4_sens_operating_points.png"><img src="https://raw.githubusercontent.com/rollroyces/deepcatch/main/docs/figures/fig4_sens_operating_points.png" alt="deepcatch sensitivity at multiple operating points" width="450"/></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/rollroyces/mrna-ai-toolkit/blob/main/docs/assets/pipeline.svg"><img src="https://raw.githubusercontent.com/rollroyces/mrna-ai-toolkit/main/docs/assets/pipeline.svg" alt="mrna-ai-toolkit pipeline: codon → variant → neoantigen → trial → LNP → manufactured mRNA vaccine" width="450"/></a>
+</p>
+<p align="center"><em>deepcatch — sensitivity operating points (<a href="https://github.com/rollroyces/deepcatch/blob/main/docs/figures/fig4_sens_operating_points.png">fig4</a>) &nbsp;·&nbsp; mrna-ai-toolkit — codon → variant → neoantigen → trial → LNP → manufactured mRNA (<a href="https://github.com/rollroyces/mrna-ai-toolkit/blob/main/docs/assets/pipeline.svg">SVG source</a>)</em></p>
+
+<p align="center">
+  <a href="https://github.com/rollroyces/py-idp/blob/main/docs/assets/demo-hitl.svg"><img src="https://raw.githubusercontent.com/rollroyces/py-idp/main/docs/assets/demo-hitl.svg" alt="py-idp HITL review mockup: receipt queue + extracted fields panel" width="450"/></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/rollroyces/speaksql/blob/main/docs/join_graph_example/join_graph.svg"><img src="https://raw.githubusercontent.com/rollroyces/speaksql/main/docs/join_graph_example/join_graph.svg" alt="speakSQL auto-discovered join graph across 6 tables" width="450"/></a>
+</p>
+<p align="center"><em>py-idp HITL review (<a href="https://github.com/rollroyces/py-idp/blob/main/docs/assets/demo-hitl.svg">SVG</a>) &nbsp;·&nbsp; speakSQL auto-discovered join graph (<a href="https://github.com/rollroyces/speaksql/blob/main/docs/join_graph_example/join_graph.svg">SVG</a>)</em></p>
+
+---
+
 ## Beyond work
 
 Formal-methods hobbyist: Lean 4 + Mathlib4 — formal progress on Navier–Stokes regularity and Erdős #125 (sumset density). Copyleft by conviction — bigger repos ship under AGPL-3.0-or-later.
