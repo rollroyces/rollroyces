@@ -81,6 +81,12 @@ I'm Royce — an ML engineer working at the intersection of **biology and AI**. 
 | 🌍 Region | Hong Kong (HKT, UTC+8) · **open to remote and relocation worldwide** |
 | 🏅 Open source | Production-grade code, fuzz-tested, semantic-versioned releases |
 
+<p align="center">
+  <a href="https://github.com/rollroyces"><img src="https://github-readme-stats.vercel.app/api?username=rollroyces&show_icons=true&theme=tokyonight&hide=contribs,prs&count_private=true" alt="GitHub stats — stars, commits, issues, contributions" width="450"/></a>
+  &nbsp;
+  <a href="https://github.com/rollroyces?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rollroyces&layout=compact&theme=tokyonight" alt="Top languages" width="330"/></a>
+</p>
+
 ## Selected figures
 
 <p align="center">
