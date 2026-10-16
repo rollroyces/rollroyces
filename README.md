@@ -15,7 +15,6 @@
 <p>
   <img src="https://img.shields.io/github/stars/rollroyces?style=flat-square&logo=github&label=Stars" alt="Total stars"/>
   <img src="https://img.shields.io/github/followers/rollroyces?style=flat-square&logo=github&label=Followers" alt="Followers"/>
-  <img src="https://komarev.com/ghpvc/?username=rollroyces&color=2ea44f&style=flat-square&label=Views" alt="Profile views"/>
 </p>
 </div>
 
