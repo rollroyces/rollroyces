@@ -71,6 +71,20 @@ I'm Royce — an ML engineer working at the intersection of **biology and AI**. 
 **Data**: pandas · scikit-learn · Jupyter · R
 **Formal / tooling**: Lean 4 + Mathlib4 · LaTeX (Tectonic) · Bash · macOS
 
+## Writing
+
+Long-form posts on ML for biology, applied AI tooling, and formal methods — drafts and source in **[rollroyces/blog](https://github.com/rollroyces/blog)**.
+
+| Post | Lane |
+| --- | --- |
+| [Multi-modal cfDNA fragmentomics for ultra-early cancer detection](https://github.com/rollroyces/blog/blob/main/posts/01-deepcatch-multi-modal-cfdna-fragmentomics.md) | Bioinformatics |
+| [9 SQL dialects from one grammar](https://github.com/rollroyces/blog/blob/main/posts/02-speaksql-9-sql-dialects-one-grammar.md) | Applied AI / NL→SQL |
+| [100 theorems toward Navier–Stokes regularity in Lean 4](https://github.com/rollroyces/blog/blob/main/posts/03-ns-blowup-100-lemmas-navier-stokes-lean-4.md) | Formal methods |
+| [Production document AI: 23 LLM backends and a per-field eval harness](https://github.com/rollroyces/blog/blob/main/posts/04-py-idp-production-document-ai.md) | Applied AI |
+| [Agentic Power BI generation: prompt → .pbip workspace](https://github.com/rollroyces/blog/blob/main/posts/05-nl2pbip-agentic-power-bi-generation.md) | Applied AI / BI |
+| [Eleven tools and twelve model adapters for mRNA-therapy AI](https://github.com/rollroyces/blog/blob/main/posts/06-mrnavax-mrna-cancer-therapy-toolkit.md) | Bioinformatics / foundation models |
+| [Turning exit interviews into attrition signals](https://github.com/rollroyces/blog/blob/main/posts/07-employee-voice-analytics-hr-nlp.md) | NLP / HR analytics |
+
 ## By the numbers
 
 | | |
