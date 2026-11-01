@@ -41,13 +41,13 @@ I'm Royce — an ML engineer working at the intersection of **biology and AI**. 
 | Project | What it does | Why it matters |
 | --- | --- | --- |
 | [**deepcatch**](https://github.com/rollroyces/deepcatch) | Performance-weighted multi-modal fusion for **ultra-early cfDNA cancer detection** (fragmentomics + methylation + sequence). | Targets 0.001% VAF sensitivity — multi-cancer screening before symptoms. |
-| [**mrna-ai-toolkit**](https://github.com/rollroyces/mrna-ai-toolkit) | End-to-end mRNA design pipeline: codon optimization, neoantigen screening, scGPT embeddings, TrialGPT-style trial matching, LNP formulation. | Bridges foundation models with therapeutic mRNA workflows. |
+| [**mrnavax**](https://github.com/rollroyces/mrnavax) | Stdlib-only Python toolkit for the AI layers of **mRNA cancer therapy** — codon optimization, neoantigen screening, TrialGPT-style trial matching, LNP composition. Published on PyPI (v0.34.6) · 387 tests · 12 model adapters. | Bridges foundation models with therapeutic mRNA workflows. |
 | [**py-idp**](https://github.com/rollroyces/py-idp) | Production AI document processing: 12+ LLM backends, self-hosted OCR, HITL review, Pydantic schemas, FastAPI. | Real-world applied AI — 92% coverage, fuzzers, public `idp.console`, AGPL-3.0. |
 | [**deepcatch-methylation**](https://github.com/rollroyces/deepcatch-methylation) | CpG methylation-based cfDNA cancer detection — FinaleMe validation pipeline. | Companion to deepcatch, focused on the methylation channel. |
 | [**speaksql**](https://github.com/rollroyces/speaksql) | NL→SQL transpiler across **9 dialects** (Postgres, MySQL, Snowflake, BigQuery, SQL Server, Databricks, DuckDB, SQLite, SAP HANA). | Engineering-heavy language tooling — write once, query anywhere. |
 | [**ns-blowup**](https://github.com/rollroyces/ns-blowup) | Lean 4 + Mathlib4 formalization toward Navier–Stokes regularity. | Differentiator: formal-methods chops you don't usually see on ML eng resumes. |
 
-> See [**all 54 public repos →**](https://github.com/rollroyces?tab=repositories) for the full catalogue (cfDNA pipelines, quant signals, NL→SQL, formal math, LLM tooling).
+> See [**all 60 public repos →**](https://github.com/rollroyces?tab=repositories) for the full catalogue (cfDNA pipelines, quant signals, NL→SQL, formal math, LLM tooling).
 
 ## Selected work
 
@@ -77,7 +77,7 @@ I'm Royce — an ML engineer working at the intersection of **biology and AI**. 
 | --- | --- |
 | 🦈 Achievements | Pull Shark · Quickdraw · Starstruck · Pair Extraordinaire |
 | 🎓 Education | M.S. Applied Data Science — U-Michigan · bioinformatics — CUHK |
-| 📦 Public repos | [**54**](https://github.com/rollroyces?tab=repositories) · AGPL-3.0-or-later on the bigger ones |
+| 📦 Public repos | [**60**](https://github.com/rollroyces?tab=repositories) · AGPL-3.0-or-later on the bigger ones |
 | 🌍 Region | Hong Kong (HKT, UTC+8) · **open to remote and relocation worldwide** |
 | 🏅 Open source | Production-grade code, fuzz-tested, semantic-versioned releases |
 
@@ -97,9 +97,9 @@ I'm Royce — an ML engineer working at the intersection of **biology and AI**. 
 <p align="center">
   <a href="https://github.com/rollroyces/deepcatch/blob/main/docs/figures/fig4_sens_operating_points.png"><img src="https://raw.githubusercontent.com/rollroyces/deepcatch/main/docs/figures/fig4_sens_operating_points.png" alt="deepcatch sensitivity at multiple operating points" width="450"/></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/rollroyces/mrna-ai-toolkit/blob/main/docs/assets/pipeline.svg"><img src="https://raw.githubusercontent.com/rollroyces/mrna-ai-toolkit/main/docs/assets/pipeline.svg" alt="mrna-ai-toolkit pipeline: codon → variant → neoantigen → trial → LNP → manufactured mRNA vaccine" width="450"/></a>
+  <a href="https://github.com/rollroyces/mrnavax/blob/main/docs/assets/pipeline.svg"><img src="https://raw.githubusercontent.com/rollroyces/mrnavax/main/docs/assets/pipeline.svg" alt="mrnavax pipeline: codon → variant → neoantigen → trial → LNP → manufactured mRNA vaccine" width="450"/></a>
 </p>
-<p align="center"><em>deepcatch — sensitivity operating points (<a href="https://github.com/rollroyces/deepcatch/blob/main/docs/figures/fig4_sens_operating_points.png">fig4</a>) &nbsp;·&nbsp; mrna-ai-toolkit — codon → variant → neoantigen → trial → LNP → manufactured mRNA (<a href="https://github.com/rollroyces/mrna-ai-toolkit/blob/main/docs/assets/pipeline.svg">SVG source</a>)</em></p>
+<p align="center"><em>deepcatch — sensitivity operating points (<a href="https://github.com/rollroyces/deepcatch/blob/main/docs/figures/fig4_sens_operating_points.png">fig4</a>) &nbsp;·&nbsp; mrnavax — codon → variant → neoantigen → trial → LNP → manufactured mRNA (<a href="https://github.com/rollroyces/mrnavax/blob/main/docs/assets/pipeline.svg">SVG source</a>)</em></p>
 
 <p align="center">
   <a href="https://github.com/rollroyces/py-idp/blob/main/docs/assets/demo-hitl.svg"><img src="https://raw.githubusercontent.com/rollroyces/py-idp/main/docs/assets/demo-hitl.svg" alt="py-idp HITL review mockup: receipt queue + extracted fields panel" width="450"/></a>
