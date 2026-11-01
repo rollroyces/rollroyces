@@ -47,7 +47,7 @@ I'm Royce — an ML engineer working at the intersection of **biology and AI**. 
 | [**speaksql**](https://github.com/rollroyces/speaksql) | NL→SQL transpiler across **9 dialects** (Postgres, MySQL, Snowflake, BigQuery, SQL Server, Databricks, DuckDB, SQLite, SAP HANA). | Engineering-heavy language tooling — write once, query anywhere. |
 | [**ns-blowup**](https://github.com/rollroyces/ns-blowup) | Lean 4 + Mathlib4 formalization toward Navier–Stokes regularity. | Differentiator: formal-methods chops you don't usually see on ML eng resumes. |
 
-> See [**all 60 public repos →**](https://github.com/rollroyces?tab=repositories) for the full catalogue (cfDNA pipelines, quant signals, NL→SQL, formal math, LLM tooling).
+> See [**all 61 public repos →**](https://github.com/rollroyces?tab=repositories) for the full catalogue (cfDNA pipelines, quant signals, NL→SQL, formal math, LLM tooling).
 
 ## Selected work
 
@@ -91,14 +91,14 @@ Long-form posts on ML for biology, applied AI tooling, and formal methods — dr
 | --- | --- |
 | 🦈 Achievements | Pull Shark · Quickdraw · Starstruck · Pair Extraordinaire |
 | 🎓 Education | M.S. Applied Data Science — U-Michigan · bioinformatics — CUHK |
-| 📦 Public repos | [**60**](https://github.com/rollroyces?tab=repositories) · AGPL-3.0-or-later on the bigger ones |
+| 📦 Public repos | [**61**](https://github.com/rollroyces?tab=repositories) · AGPL-3.0-or-later on the bigger ones |
 | 🌍 Region | Hong Kong (HKT, UTC+8) · **open to remote and relocation worldwide** |
 | 🏅 Open source | Production-grade code, fuzz-tested, semantic-versioned releases |
 
 <p align="center">
-  <a href="https://github.com/rollroyces"><img src="https://github-readme-stats.vercel.app/api?username=rollroyces&show_icons=true&theme=tokyonight&hide=contribs,prs&count_private=true" alt="GitHub stats — stars, commits, issues, contributions" width="450"/></a>
+  <a href="https://github.com/rollroyces"><img src="assets/stats.svg" alt="GitHub stats — stars, commits, followers, repos" width="480"/></a>
   &nbsp;
-  <a href="https://github.com/rollroyces?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rollroyces&layout=compact&theme=tokyonight" alt="Top languages" width="330"/></a>
+  <a href="https://github.com/rollroyces?tab=repositories"><img src="assets/langs.svg" alt="Top languages by repository count" width="330"/></a>
 </p>
 
 ## Selected figures
