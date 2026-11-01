@@ -62,7 +62,7 @@ I'm Royce — an ML engineer working at the intersection of **biology and AI**. 
 - [**employee-voice-analytics**](https://github.com/rollroyces/employee-voice-analytics) — HR NLP toolkit (sentiment, emotion, theme, attrition risk).
 
 **Quantitative**
-- [**vcp-signals**](https://github.com/rollroyces/vcp-signals) · [**AI-Trader**](https://github.com/rollroyces/AI-Trader) · [**mr-strategy**](https://github.com/rollroyces/mr-strategy) · [**vmaa**](https://github.com/rollroyces/vmaa) — VCP patterns, mean-reversion, agent-native execution.
+- [**vcp-signals**](https://github.com/rollroyces/vcp-signals) · [**AI-Trader**](https://github.com/rollroyces/AI-Trader) · [**vmaa**](https://github.com/rollroyces/vmaa) — VCP patterns, mean-reversion, agent-native execution.
 
 ## Stack
 
