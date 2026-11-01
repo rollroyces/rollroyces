@@ -67,8 +67,11 @@ I'm Royce — an ML engineer working at the intersection of **biology and AI**. 
 ## Stack
 
 **Production / ML**: Python · PyTorch · JAX · FastAPI · Pydantic · Hugging Face · Docker · GitHub Actions
+
 **Bioinformatics**: scGPT · codon optimization · fragmentomics · methylation calling · LNP chemistry · single-cell pipelines
+
 **Data**: pandas · scikit-learn · Jupyter · R
+
 **Formal / tooling**: Lean 4 + Mathlib4 · LaTeX (Tectonic) · Bash · macOS
 
 ## Writing
