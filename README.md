@@ -26,7 +26,7 @@ I'm Royce — an ML engineer working at the intersection of **biology and AI**. 
 
 - 🎓 **M.S. Applied Data Science**, University of Michigan · currently **bioinformatics** at CUHK
 - 🧬 Day-job focus: **mRNA design × AI** (codon, UTR, structure, neoantigen, LNP) and **cfDNA fragmentomics + methylation** (0.001% VAF detection, multi-cancer)
-- 🛠️ Also ship applied AI systems — production document AI (FastAPI, 12+ LLM backends), NL→SQL transpilers, agentic workflows
+- 🛠️ Also ship applied AI systems — production document AI (FastAPI, 23 LLM backends), NL→SQL transpilers, agentic workflows
 - 🌏 Hong Kong (HKT, UTC+8) · **open to remote and relocation worldwide**
 
 ## Open to roles
@@ -42,7 +42,7 @@ I'm Royce — an ML engineer working at the intersection of **biology and AI**. 
 | --- | --- | --- |
 | [**deepcatch**](https://github.com/rollroyces/deepcatch) | Performance-weighted multi-modal fusion for **ultra-early cfDNA cancer detection** (fragmentomics + methylation + sequence). | Targets 0.001% VAF sensitivity — multi-cancer screening before symptoms. |
 | [**mrnavax**](https://github.com/rollroyces/mrnavax) | Stdlib-only Python toolkit for the AI layers of **mRNA cancer therapy** — codon optimization, neoantigen screening, TrialGPT-style trial matching, LNP composition. Published on PyPI (v0.34.6) · 387 tests · 12 model adapters. | Bridges foundation models with therapeutic mRNA workflows. |
-| [**py-idp**](https://github.com/rollroyces/py-idp) | Production AI document processing: 12+ LLM backends, self-hosted OCR, HITL review, Pydantic schemas, FastAPI. | Real-world applied AI — 92% coverage, fuzzers, public `idp.console`, AGPL-3.0. |
+| [**py-idp**](https://github.com/rollroyces/py-idp) | Production AI document processing: **23 LLM backends**, self-hosted OCR, HITL review, Pydantic schemas, FastAPI. | Real-world applied AI — 92% coverage, fuzzers, public `idp.console`, AGPL-3.0. |
 | [**deepcatch-methylation**](https://github.com/rollroyces/deepcatch-methylation) | CpG methylation-based cfDNA cancer detection — FinaleMe validation pipeline. | Companion to deepcatch, focused on the methylation channel. |
 | [**speaksql**](https://github.com/rollroyces/speaksql) | NL→SQL transpiler across **9 dialects** (Postgres, MySQL, Snowflake, BigQuery, SQL Server, Databricks, DuckDB, SQLite, SAP HANA). | Engineering-heavy language tooling — write once, query anywhere. |
 | [**ns-blowup**](https://github.com/rollroyces/ns-blowup) | Lean 4 + Mathlib4 formalization toward Navier–Stokes regularity. | Differentiator: formal-methods chops you don't usually see on ML eng resumes. |
